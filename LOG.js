@@ -46,612 +46,565 @@ Processing all of your choice, wait a sec...
 
 🧾 Executing your selected menu: Daily
 
-✅  [1]Rinda  |08:33:01|06-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0x895dedef91ed56dbcca0c655477897cd7c53983bf66a27a34e9d9d913fd45728
-✅  [1]Rinda  |08:33:15|06-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0xf638fc01a2d558484ed947fe2040f0f8a8975056db600d6d2eb68eb2d67e90fd
-✅  [1]Rinda  |08:33:25|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9010d40652bb914dac071daf3627cbee2e90efd082ad3e678694665f7d592bcf
-✅  [1]Rinda  |08:33:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf903c3663f5854c3d573ceff1a60574cdd4a229c47f70fa65865575ba40b40a1
-✅  [1]Rinda  |08:33:49|06-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x17f8d13efe14c456a2ba0c54d961195abea8c2b2e711ed52002429d11f809398
-✅  [1]Rinda  |08:34:03|06-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xef7613ac956041394200055506b3289c2aafa720d022cd87cc59414058e4f48a
-🚀  [1]Rinda  |08:34:04|06-06-2026| Transfer for 0xb0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee
-✅  [1]Rinda  |08:34:13|06-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2b33688426b71f59cc9f4e79f33aa73791d631137c510ef7efb53fe025b6199e
-✅  [1]Rinda  |08:34:27|06-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7b9ddb19e10747b13d112ec194e3f46ce4bf890215facd93853eb512071f7882
+✅  [1]Rinda  |08:55:01|07-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0x778d819e85da142d63f59013d02497ff1f24854b9010306e283ba6a727b6e671
+✅  [1]Rinda  |08:55:15|07-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0x5af87e31161e45b320e947b0a3e03fb3bdf795fff8dc3374248e2a57b8e029e2
+✅  [1]Rinda  |08:55:26|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xde82f01a89bb7dbacaee1e97a67d667abf5b0d4c50b652b9c8ef01fe9ecb6376
+❌  [1]Rinda  |08:55:28|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502d3bdde9883016fdc94e815718d44694ec4637cb775c468d87f6e15b53880b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee00000000000000000000000094a9d9ac8a22534e3faca9f4e7f2e2cf85d5e4c8000000000000000000000000000000000000000000000000000000003b9aca0000000000000000000000000000000000000000000000003635c9adc5dea00000c080a0a31f8f36ad6ddd1fed3d9127f091c3f94c8574bec175a65b299f71ad023da2a1a03aa12a1b2aa4b893eeb6f0ed9b5483fa6821d0711effcfeef3796e360c2ce7c6", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1143471310582432, overshot 25030247467992" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
 ⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [2]Kinsa  |08:34:38|06-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0xad59e532ce89ca51e84f9381a544e39ea1250ac4da799130b40a2ec4db43e9ef
-✅  [2]Kinsa  |08:34:48|06-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0x1d8963400bb83ed32a311767fbaa79c7c25e95ae6e61cd1cfa639850281dafd4
-✅  [2]Kinsa  |08:35:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe59f3fc61e33bf3cfdba603b1a80d36aca2b360aea8d5334e831f4cf51a775fc
-✅  [2]Kinsa  |08:35:24|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5957cfd9e2a42823f10f7abfd4d0688a731f25b6298a19946fbaaba0abd39168
-✅  [2]Kinsa  |08:35:38|06-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x68be6b33ff1cb8ced22e1dd6f57de4a398aefd6c204d0d547554716a2c3ed6f0
-✅  [2]Kinsa  |08:35:52|06-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4bda66a51028e24c7b1acbd9b524f161958a3f8bb55fc2525e50db41090d524b
-🚀  [2]Kinsa  |08:35:53|06-06-2026| Transfer for 0xba545b0de11d5de1715c04e78ec4324ca7fe2744
-✅  [2]Kinsa  |08:36:02|06-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8a85e509fad389b1b3fede386037213a9324ab64ad72d22f4f05455d69b514ea
-✅  [2]Kinsa  |08:36:12|06-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf036c429f617eda498b0f3a33493e3b9fec44c144bc0014b7a1f54c952ff90cc
+✅  [2]Kinsa  |08:55:39|07-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0xbc1e5bbcf1eac85ac88db23de98684d636c36eabc49a11b1056c1f3a98e75caf
+✅  [2]Kinsa  |08:55:49|07-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0xecea7d13231dd2e9ed6d9e23f7bc7a203c4679e87de54ea7abeaf7a95ffb69f3
+✅  [2]Kinsa  |08:56:03|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfbb76fa79540e8c97c4f978c87a903b85c0a846390d3485807c281bb75d4cd52
+✅  [2]Kinsa  |08:56:14|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd27951fea10096f5f430e2165a340212adcec129f70844fdbb7675db08ed660e
+✅  [2]Kinsa  |08:56:28|07-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x71e6ab841adfee6ebd05ccb92b98c8bd837c48bce9fe47b02e8d2dd933ce23f7
+✅  [2]Kinsa  |08:56:38|07-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x75dab70dd0460abab7b8937b2e51766af0c71442d764c3bb78e9768e691f32e1
+🚀  [2]Kinsa  |08:56:39|07-06-2026| Transfer for 0xba545b0de11d5de1715c04e78ec4324ca7fe2744
+✅  [2]Kinsa  |08:56:48|07-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc0aeb0706fc98c345a272cc8cfac06b1e559713e9665b274c76e97e60c0c7a0a
+✅  [2]Kinsa  |08:57:02|07-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x705133ae676c1617e130ceb9b6ecee2bd7d89d0c24c71db7c83c42d9e1da82fa
 ⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [3]Miura  |08:36:27|06-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0x271f01cba3975b84c4502717795f98848729165d5a78ed46d6b9e9fc3241a380
-✅  [3]Miura  |08:36:49|06-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0x14e08c2bc746cacc0724f4159cad12ac9d42c22b5e682e72b06e971a50de2123
-✅  [3]Miura  |08:37:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd3586a98a089c17741d2de835635a60525992b11f3ba61419c9b696db39c5e01
-✅  [3]Miura  |08:37:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2b9894612046171f1de7640bec67bef3e5fbcd1837a06e805c3580eabe3f8543
-✅  [3]Miura  |08:37:27|06-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd7116a4fd55db6cb679d330b3d9355ac15dcb471404f77a17e8992d5f6e9edb8
-✅  [3]Miura  |08:37:37|06-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xde298b4dfe16a1416ad4969d1b6f748843deee4391f0e3454f6a5ee1cabb4bd3
-🚀  [3]Miura  |08:37:38|06-06-2026| Transfer for 0x03fd5a343e73e147c24bd2cbbb616cf21c5b03fa
-✅  [3]Miura  |08:37:51|06-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfafa8a9e71855fe845cf518f08cf6a679045300dc95d78d246cb229bb0263fc8
-✅  [3]Miura  |08:38:01|06-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcc27e4c9cf0817ac2795aa98c5061963aaeb4d679469356adda1decaf3b9b936
+✅  [3]Miura  |08:57:14|07-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0x8babeebc2a943b4a3d1278d3f741a9877b203d7a5f701c9d0f95713602055c46
+✅  [3]Miura  |08:57:28|07-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0x88096bbc5e7cc7167ed0c7fe5f9852de8033254e293f140cac920a2e25d7012d
+✅  [3]Miura  |08:57:38|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x356f014cfbe62114bf3a2fbdcbe62b4563047195f87b11b590e976f36acc39ff
+✅  [3]Miura  |08:57:48|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x934725ad61b594efbb3a57f90abbec711ebb412942f64d4ef88cf3fc6c3369d6
+✅  [3]Miura  |08:58:03|07-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc760244eb25e88b022bc644636ef45f4277ab3a7e31c930aa10202e6b741bbf9
+✅  [3]Miura  |08:58:13|07-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8efa8800c52a6f63393430b3852fbb59d8e57bec5ab047fb8d96499ed88fceaa
+🚀  [3]Miura  |08:58:14|07-06-2026| Transfer for 0x03fd5a343e73e147c24bd2cbbb616cf21c5b03fa
+✅  [3]Miura  |08:58:27|07-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7a73f96daffa02b51d674b4436f0c97c3650e58ae494f9bdb1fc05da0d232b88
+✅  [3]Miura  |08:58:37|07-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8b389e6058b223dda564776cb3a4028c960ddcc76e91cf5e179233c4594b1461
 ⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [4]Luana  |08:38:12|06-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0xc30aa88f4b0e44268b80907b74b143cead0dd3c3491a75f2dfee0d6f11516f42
-✅  [4]Luana  |08:38:26|06-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0x006988850551387af4954c5a8d5314fc56a0dcd8588fd44df1e4e37f7b1bc6ec
-✅  [4]Luana  |08:38:36|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x002c942e949625ca60836edc233f180f61e66aef6e91ede80ea5e2ed8b11f781
-✅  [4]Luana  |08:38:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8384eb97962ad4d262b18e6350cb62e00771304f97a3e4840a409de5da23528e
-✅  [4]Luana  |08:39:00|06-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x32c608c5d1d61f353fbba2765537d6d0cd7a2a2120a81a6b64cfaa59c1b0f75e
-✅  [4]Luana  |08:39:14|06-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1096da2168563440d36bd5ba006e9ea2cb279c41bdca21808e87086e05839295
-🚀  [4]Luana  |08:39:15|06-06-2026| Transfer for 0x8b1cd9d4043f345d0d54d4eee051faccdfe77da7
-✅  [4]Luana  |08:39:28|06-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1c4ebf991c79aa17202fab99d6238d915b05591b513191100e70ae5b9b09ead4
-✅  [4]Luana  |08:39:38|06-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x36e734c1f4d234ab511fa33b557ce8c352927257c0c9f33d2e9a903bb18e2548
+✅  [4]Luana  |08:58:49|07-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0x5c4f1d73a603afd18df13dff57c5afcfb147988a4c056f194127a0e8f4ec7966
+✅  [4]Luana  |08:59:03|07-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0x2c15d9e6da58b2c71252a89ea47020319abf0cef5259552cb19d0ddbac04e5db
+✅  [4]Luana  |08:59:17|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa66cc599eabb52078a6bd82d3e02547cc7f62470dffa12a96d35b6584d7a3589
+✅  [4]Luana  |08:59:27|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xae3bfb65a4f55dba2db4f264c85b80243afa92d7737194d6870cf34fe901c2dd
+✅  [4]Luana  |08:59:38|07-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x285c9b7056228100a359da63ec142317917cf26e1b4319f543b221917962a15a
+✅  [4]Luana  |08:59:48|07-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x824efe21092d96155040e7953ccdaeb5ce4aa41e1482a02be20555575f6dce19
+🚀  [4]Luana  |08:59:49|07-06-2026| Transfer for 0x8b1cd9d4043f345d0d54d4eee051faccdfe77da7
+✅  [4]Luana  |09:00:14|07-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4eff170bf1edec60b3a832771dd25dd89fa1c9bdf779ce8ded091ff41cf5e5a1
+✅  [4]Luana  |09:00:37|07-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x80a2ee8ff5a457c82455dd60489fef2487d0e7ffb319566ee7f2f122bc4ee4a0
 ⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [5]Linka  |08:39:49|06-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0x1f62474f4d4da80881fcef9e34911f904169341050d9d253644bf3b6ca849a20
-✅  [5]Linka  |08:40:03|06-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0xb1e0ebb5ec6258c9ceb0d68b419ce4eb45d244830c235ddf1f85225c647f98c3
-✅  [5]Linka  |08:40:17|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x69a60dbe277cf76c2b2b9fc00b7c84aff5440e64991c9a55483d7386350cb391
-✅  [5]Linka  |08:40:27|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe1c961f49d88117b8e3ec25b4dc5f84dc5a8d3cdb380cbe35c596ab19e6770da
-✅  [5]Linka  |08:40:41|06-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc467c61ea96fab4cdc33d659655b2482114bb3cb017176bce1880ea0afc116fd
-✅  [5]Linka  |08:40:51|06-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x78d0ded84b76ae3261b27c0df1be8303c157574c3e77fbd01ef0cfd3f17153af
-🚀  [5]Linka  |08:40:52|06-06-2026| Transfer for 0xb2d5066df0f605c5d64f22d72af0be6ae8f03f23
-✅  [5]Linka  |08:41:01|06-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x708def5b82d738f2a81bc127d5bf8b66ced7b1401a6f75f98b99ef809bc7c573
-✅  [5]Linka  |08:41:15|06-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa50b79743558e4147e377ac19f06d36db34f5e59571d94b81892d3b9b68b9483
+✅  [5]Linka  |09:01:01|07-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0xae7445426de29d6877660b4a58b57bcc8f2367f80fabef194f2549c2943117db
+✅  [5]Linka  |09:01:15|07-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0xd23335ee3c13585dd041b66f84c61654c74084b6c1b10a6bc1b747eff0f81334
+✅  [5]Linka  |09:01:25|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x80878210077c5934f99d6b80905aec7da2fce8cb95ad0705fdc7b9f03b047f0a
+✅  [5]Linka  |09:01:39|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0ff3a17dbd9d3c2576f7dc8a011b98b814336cfaf7b89bb7a26cd002b1101f58
+✅  [5]Linka  |09:01:50|07-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xec8c88e0f809373e1efff13321231cf254bd45f186d902446b0c3a1a4b207c68
+✅  [5]Linka  |09:02:04|07-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfa89875191181c179bc145324f4b6a1b473e55e2c3912b8db746c5222acfd7e5
+🚀  [5]Linka  |09:02:05|07-06-2026| Transfer for 0xb2d5066df0f605c5d64f22d72af0be6ae8f03f23
+✅  [5]Linka  |09:02:14|07-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe6263c62b7b23f61752e28549627a05d5363acfbeaae3d861bc3acdb22203809
+✅  [5]Linka  |09:02:28|07-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd362bd3bd760b8527554b693f89eda8da7d82eb34b6572b352c49e3cbd9715ad
 ⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [6]Nilka  |08:41:26|06-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0x0422aaade999a66b2ccde6f900bc3e26abcf9421cb77b4e9fd8afeacdf44429b
-✅  [6]Nilka  |08:41:36|06-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0x1801e7906d26e1dcb5ee0bbf03380da82ec4b816c96a2f4bb0b66036058fc7c9
-✅  [6]Nilka  |08:41:50|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdbaba558d58cd3c0d36828138696d137df7ebbd0ed9accdd397ffa78c9855c01
-✅  [6]Nilka  |08:42:00|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x889270d6ada9e213ccc17216068d01833e5f2dee4c55ccae7c450e52ff35660f
-✅  [6]Nilka  |08:42:14|06-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf114d6b86b16b96354e5950e4809b6d63273f50b907d01f8d0256466c6323e01
-✅  [6]Nilka  |08:42:28|06-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8b0087e2a2d5c60a81816a83df0b8b6de7451e62d9028bd8d93cf3b5de226f9d
-🚀  [6]Nilka  |08:42:29|06-06-2026| Transfer for 0xbe063cdc4727ffa7d9ba35d1b2821eaa09d6fec5
-✅  [6]Nilka  |08:42:38|06-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x81713dc248c603c3bdfbfd8a69877cd304b0a2b1e82906e0eb7f14afaaa7df8f
-✅  [6]Nilka  |08:42:48|06-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9c1b1132d385063bac765799452f464ab2482e334e6ab7b940ce1ac0a83974ce
+✅  [6]Nilka  |09:02:40|07-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0x052db880a59b15642171a5d2b5bef9bb7a44d3f5b10ccd8a6458d359ab0993cf
+✅  [6]Nilka  |09:02:49|07-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0x5524a689a786533721d1547fec44007aa22a4a760374207ca77c13f8a7189a6b
+✅  [6]Nilka  |09:03:04|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe59a8c66537eccc8b9466a4276ba9568a37ad52a697b1c722b22f375609637ad
+✅  [6]Nilka  |09:03:14|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc4633df1c0dcb0de72fbc5966b587e321b8bb4224079f51e5a4759c8e77dbc09
+✅  [6]Nilka  |09:03:24|07-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf01c75fda7e13c98f3e5c5d18822c68b266a7da32e76d016adb4279e02a9eb83
+✅  [6]Nilka  |09:03:38|07-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xba2df3c871767ec83f60a9fba83dd5a68b45300a57519414749b08a916398226
+🚀  [6]Nilka  |09:03:39|07-06-2026| Transfer for 0xbe063cdc4727ffa7d9ba35d1b2821eaa09d6fec5
+✅  [6]Nilka  |09:03:49|07-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x18452320c6693b0704d84b0eb742d83f402b31fbda389708f157e4fbb01a8a5e
+✅  [6]Nilka  |09:04:03|07-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x08253fd84e55b146077b9db69ef7ed3f962c1304153c629054155c73449bdfe2
 ⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [7]Liona  |08:43:03|06-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0x8c6a5a65fef74366d7834f1bebb0d935604bc108e5733aeb497c10fe8a22e490
-✅  [7]Liona  |08:43:13|06-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0x29f2712415640e254bad7bca5ebff4c03b7b7cb79eea8a033d85d7b98edae6d6
-✅  [7]Liona  |08:43:27|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb3f6c83340eed0188f29df971dddca2de0de679401d9d15595e15bd79892fbce
-✅  [7]Liona  |08:43:37|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xce608e2a9080b687c8c2a1f6a8bed32f122fad74a887181ad1eade8160917325
-✅  [7]Liona  |08:43:51|06-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8f5fcfa18162ae1cb0ffc507336a413efdd016bd76293f0cea2865de4c26587f
-✅  [7]Liona  |08:44:01|06-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x948e8b032a5b99b0d0c7aa3fc39b6c874667e5e3a23d0ec5dca2834a7d16961b
-🚀  [7]Liona  |08:44:02|06-06-2026| Transfer for 0xfda88874091a05648c6c15cf0d65a7b4c665816d
-✅  [7]Liona  |08:44:15|06-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5bab65167bef4c4a402e360c039887363e0139079bc00047a44b2abe20de9c7c
-✅  [7]Liona  |08:44:25|06-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2e6b46975ea007758693fd566f0148f1a688b8c3b341625d0d7a7414897c431a
+✅  [7]Liona  |09:04:26|07-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0xdc2ab84132c0ac505336523e668cd4cd02fc1841ce59c49eb5937721c9491ae8
+✅  [7]Liona  |09:04:36|07-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0x4b2acb4f325c00d34fef87297e904d44c171a16a14d81e9141647876b6e7a793
+✅  [7]Liona  |09:04:50|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8108249ff6b160e4486915228ea208fb938f37cd3ab25540fc4f97c29c177e40
+✅  [7]Liona  |09:05:01|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf8d0baa755b2ef496082433b9eaa8c41d7a83d62aba691d63f717a9a6cff18e1
+✅  [7]Liona  |09:05:15|07-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1a47247c4e7cddbed22d72f636f759e321530fe63f5d3244621a7df00f62c67f
+✅  [7]Liona  |09:05:25|07-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3bd0318a5cd757f8312663d224096f118d4f2289a0549a18b01472c67ce35b55
+🚀  [7]Liona  |09:05:26|07-06-2026| Transfer for 0xfda88874091a05648c6c15cf0d65a7b4c665816d
+✅  [7]Liona  |09:05:39|07-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6c2566aacea0284407674cfc2412be3d63c69340dd0311437f5e12c08e2ae22d
+✅  [7]Liona  |09:05:49|07-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1843b99ac7646924b48ff448fdde9d2795bfd00eeb72adc9d6ffd6670730caa1
 ⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [8]Nincy  |08:44:36|06-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0x7873faf2251993b16bf1e84f3cc1ca332571542b7ccf4121c51c591c8381d3ab
-✅  [8]Nincy  |08:44:50|06-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0xf7e017b4163dec047ac32c02b1fba477d3146570b3665ceffe55a99c9ec3f7d7
-✅  [8]Nincy  |08:45:00|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4c7663b2ff9f35a6171892599deff31384ccd361fa873388245faf264bfc42c6
-✅  [8]Nincy  |08:45:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7ee4030596d4c752e58451bcee4d320355136a9d5d8e9be1e27937641c23cd29
-✅  [8]Nincy  |08:45:24|06-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe25b52c519ab81c02d1cab5c44cd68f5d1e6b0ba773e7ad28fd0ac902c03ef1b
-✅  [8]Nincy  |08:45:38|06-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf3a90da770bad2048ac2c604393d9861339ade24815d54dac1b63c099cc1b0b1
-🚀  [8]Nincy  |08:45:39|06-06-2026| Transfer for 0xc933e01a3f0e2c04ce7f804874ab619bbfc6f534
-✅  [8]Nincy  |08:46:04|06-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4a8714eb6444e2aac79528c54d474eab596683c0816999cfb282894bc5c6bb19
-✅  [8]Nincy  |08:46:14|06-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8baa469a93098e3b68c7e86d2e372b5a2cd2538aa04ff356127c6e6cf662e6ee
+✅  [8]Nincy  |09:06:13|07-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0x303fcb337eef704b7c03e01fb15f18d421124b84b4a286f3e9135216b89906de
+✅  [8]Nincy  |09:06:27|07-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0x0e2fb4f5dfa95653557410956edb3e98d45ac0b8b1f48c59338c4c64d661bb18
+✅  [8]Nincy  |09:06:37|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x37a82587088bf897a24c3e6ffceb3760be2cf56616e7bce201bff3139d198528
+✅  [8]Nincy  |09:06:51|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x68de0746eeb5f5cd552edb941e1bbd360d738fd1fcfd3c64c2b78ba04f2c734f
+✅  [8]Nincy  |09:07:02|07-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0248e5d8d838dbbc2b9cc10413a364521754c0a3cf2257b8b38bb1109f9a60b8
+✅  [8]Nincy  |09:07:16|07-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x71a48bc7aa459bd6aa7e4bdeb842c2afdb2c8360ffc5cc7139a244ac40a4f7bb
+🚀  [8]Nincy  |09:07:17|07-06-2026| Transfer for 0xc933e01a3f0e2c04ce7f804874ab619bbfc6f534
+✅  [8]Nincy  |09:07:38|07-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3ad9f462fa0d9b75a951df4aeb284f3cc6b1cd347d986392fb1a96752b26f1a9
+✅  [8]Nincy  |09:08:01|07-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x193cf830956771439ca5d263b22f4fb3702d4443b02fa968ebd5af8737b2f9e3
 ⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [9]Nikia  |08:46:25|06-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0xd0c29901fa09acfcf25db5d426ba38da8e2c693de6a96ef5667c2436df3d3d82
-✅  [9]Nikia  |08:46:39|06-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0x91fa91fdd79ca447571bdc58128fa7b1bcfad2f5fdba43fabbaed1c5ff1f2c48
-✅  [9]Nikia  |08:46:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb725d5da580462857edcf794a5934e3025f55be797798e4cbbd6b0254a9d2029
-✅  [9]Nikia  |08:47:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1250c8384a792821720be1b800961bdbc750848c7bbb6b42ea93b8d09d8f873a
-✅  [9]Nikia  |08:47:25|06-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x91d03a472e34585a1397bb673e19425a564b08326056872df080e6aa076a7a6e
-✅  [9]Nikia  |08:47:39|06-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x62e5f3e8a07b1b876971d101c86d3c10e1a3b402de225a191cf5adb8b7c4ba7e
-🚀  [9]Nikia  |08:47:40|06-06-2026| Transfer for 0x6c451500261215a940918f0544aa3bf2676b9981
-✅  [9]Nikia  |08:47:49|06-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x874cc4300560072362fd2b2f94062d941709684336eea0fd35328fe52060dc8a
-✅  [9]Nikia  |08:48:15|06-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x025e15c599082d6980971ea53eff0ad48fc772f52ffa59ab5a727c3a8cb159cf
+✅  [9]Nikia  |09:08:12|07-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0x518e8963dec72426fcf04fc8173a5c529665b5c8bc834c471f0a74129c3db177
+✅  [9]Nikia  |09:08:26|07-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0xfb852c602cc626490269789f1adad178027ee7d82d191baa4b7fc03bec1f7ea5
+✅  [9]Nikia  |09:08:36|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe264d15e1da039f29113d945bd98c2b2edfad9f00dcb84b2f7b09035b9fbbdd6
+✅  [9]Nikia  |09:08:50|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9950eab6d426b51521e46edddb1e6a3b723f3e313e6f6e93b00f9d0740f7e405
+✅  [9]Nikia  |09:09:01|07-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x733b59264265966b5b098c5d3867457cad5856ece8fa4205d9be396197cd3896
+✅  [9]Nikia  |09:09:15|07-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9ca5069b205f4fc655a9ccb3b0528588f8f137908f3f46730a8a298f3470d7bf
+🚀  [9]Nikia  |09:09:16|07-06-2026| Transfer for 0x6c451500261215a940918f0544aa3bf2676b9981
+✅  [9]Nikia  |09:09:25|07-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2f0c930b8b3601544d766da046a533287e9f9901e54a4675ba8ab79b72e689c7
+✅  [9]Nikia  |09:09:39|07-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x04c0b8e10c80e1ba83bc0f520348796f2f1a7178c0ceefad98aa6b8be30b7cc8
 ⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅ [10]Diona  |08:48:26|06-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0xf5d5fce2d2611518e4619ed0809de234b75b330da788e4ed107491d1c504a834
-✅ [10]Diona  |08:48:36|06-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0xc3b63b2d34e3eeb63b4563409f436f859014d3c6a432a55bacc0544519bcfd42
-✅ [10]Diona  |08:48:50|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfc156883e08eff0b84cf30a69cf4098df4c92f7c18719acc554aeac8b0a80e9d
-✅ [10]Diona  |08:49:04|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcb29ca7eb1cc84d0ce350b1111f5f52b64955573de2be68d8bd5179111ba0b67
-✅ [10]Diona  |08:49:14|06-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x61a186f9b547118186c5cd1ac5093d6eb0338299233cc9e841afe50b06f50fea
-✅ [10]Diona  |08:49:24|06-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x80d0a03a9568070dcd047cdc2f21a338f96fcd829b2de2a38ecfba6ca50eee89
-🚀 [10]Diona  |08:49:25|06-06-2026| Transfer for 0x84ff6d2591a320974fe098b89251588cba293ee7
-✅ [10]Diona  |08:49:38|06-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe77a406ba116ea3d448ee0952b8c3ccda1c222f9db3fe2d7e10a9067de29be7f
-✅ [10]Diona  |08:49:52|06-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe81f642c3691eec93e4297b300f61fef2df1fc512f8b595e59d4b1d18b1d639a
-⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅ No Error Account
-🧾 Executing your selected menu: Mint USDT+/USDC+
-
-✅  [1]Rinda  |08:50:04|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1c568adde3621188562f10e597b63bbd4614f0e8c4913dcbc46dcabafd8925ea
-✅  [1]Rinda  |08:50:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc4c7c3ee2c6ffca0ad3095c59a4f62ed3b9f3be4bf77f6d5301d4eb9efcac942
-✅  [1]Rinda  |08:50:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8c1046feca83736c5b839892058b93ccd2419a16d474d601c525061eb54d9444
-✅  [1]Rinda  |08:50:49|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf7666533fdcdfd10f3ce65096ed942a72300d9e53b70a1e16eb82508aeb74600
-✅  [1]Rinda  |08:51:02|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xab5aac546f8ab5fa0d9df30c72579ff1deb85117600f8637bbd242f22a306372
-✅  [1]Rinda  |08:51:12|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf965448df316cdd9be5ac0db24071264415e0ba9846ffed828883f5761404115
-✅  [1]Rinda  |08:51:25|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6222961cb39fbc451b94f50d9726ae89f21ff2e0d658604672a6c5179b8b540e
-✅  [1]Rinda  |08:51:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2d27355ba77c6c27c13d6c9bef87378ff74ed513ebbf72e0568ecc4cd41221c1
-✅  [1]Rinda  |08:51:52|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8d79ca6f68f85a715f681e2ceeb02eef9a9c7dd8739dc13b5000532e095139e4
-✅  [1]Rinda  |08:52:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1d8fd313bc83e6d3248c237c2735032d93d2bece69c726c068f87908b2a888a8
-✅  [1]Rinda  |08:52:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4cf71496b24d782c4ae851f40bd5513f8125be34c0ca6e108cb8cb75921c0510
-✅  [1]Rinda  |08:52:25|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd3f07fb8eb78dfe0fb913cbc3e978cf82b6b00626924ada2b15edfa0513a2afa
-✅  [1]Rinda  |08:52:38|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x07142b25b31ddf188a61a79f5a41461b4630d021a316a51fb95e7e3f24e27890
-✅  [1]Rinda  |08:52:52|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb16b2702ad6182e8906431505cacbd20ed54564cd701117afb5d3c86d468a9a3
-✅  [1]Rinda  |08:53:01|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x04dc0747bd90c60eeb1ab3fc9125d4a58fd7cdea6247435e97cab3ab14eb0e15
-✅  [1]Rinda  |08:53:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb51c65eefde88d5c8294b8a69079df18bc9d0d1475545493580017117abfe8bd
-✅  [1]Rinda  |08:53:28|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5c68e3b04be713a1a3d08b0ed0e2fa8569db78e9737b0a3db62e1d7a4e5ce124
-✅  [1]Rinda  |08:53:38|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x31ec32d4e92f53f6ea50a00d2b5d3f9b2862b537ff8828e9e9df659a548cafcd
-✅  [1]Rinda  |08:53:51|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa3fce060552a5b2cfc5a0556068a8a464dd5034e3c75280a8c5d8f3a70127994
-✅  [1]Rinda  |08:54:01|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2ddc19de3391f28c874460532b5587e1b3f865641cab60de5fb35a8ffb207e71
-✅  [1]Rinda  |08:54:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc705246c330469daeaacba87e33bebb05b062705bc771a72a2ea003166b4faab
-✅  [1]Rinda  |08:54:29|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x40154df321e34f7f29d454a475120a045ab3c6f63338c16ebaa18dffaa554673
-✅  [1]Rinda  |08:54:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x24fa7380d4c37480a24d2e49033102f1191f8a777dbf20954fe3fbcb80f8f213
-✅  [1]Rinda  |08:55:04|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0fd8e4f0e67e87800890f56a2449017702e900b1a8fdbfcb8e5ebaa27fe9791b
-✅  [1]Rinda  |08:55:13|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2e3ec546e664eb5d060712a1362204cd9e7598e628726e7e842d4d065642b135
-✅  [1]Rinda  |08:55:27|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2ebcf3e6455e8eeec8a598e0ae299aff89a16ee1dbf32f423ec6c766b5bd1894
-✅  [1]Rinda  |08:55:40|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0160e3d907f1af418daa024be07bb72cac8a9df0ebd5248a46696e00c07e117b
-✅  [1]Rinda  |08:55:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x05f27d3715c91fa6afce47f9b229fa984d43d063e49bb071426b591a7047063a
-✅  [1]Rinda  |08:56:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb625542c73fa3ec2a66f7d4155e022f44653ece27354e062baef9587765257a9
-✅  [1]Rinda  |08:56:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4c396f2af903869915803f430d1fa346876468f6bac75e338fd317416303daad
-✅  [1]Rinda  |08:56:26|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x45f046437cf66189849fcde08a9a91a21743db052395fff6341ff69f9ffc6857
-✅  [1]Rinda  |08:56:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd470bfe44cfaae4aeb11e7f0edca17ab21b7e72f059092b334cc2d4ed2f92170
-✅  [1]Rinda  |08:56:48|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf1cc66a7cf886ff29bdbe77e792f08c170436de746ea8a43b191f32135a250b5
-✅  [1]Rinda  |08:57:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1b921c18e7dd421030c67163aed465519472ed277ec37cde903353d013c6c7e2
-✅  [1]Rinda  |08:57:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0167b5128e86efaf8886b0e1fa532bb76cb56ced816515535e2816c42da7d9bf
-✅  [1]Rinda  |08:57:25|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x599cfcbf2a0231964833a5a6778f13a27de805a94fc325d0d1436b3f1613ea17
-✅  [1]Rinda  |08:57:38|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfcedab7e441e324007899a531e91fb5ac885448483c576d19804269963ced733
-✅  [1]Rinda  |08:57:48|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x08d173c79a3ce5a4259ad839a7e884a37dd28803f4c810521557b50fb1b579e3
-✅  [1]Rinda  |08:58:01|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc2d27ae5c5dc336f9d8c045df7e5dd23e0db241f5c7df5c7bba0d68feb1c6cc9
-✅  [1]Rinda  |08:58:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5fe749842c689220032f2e24e2800ae0e296572cc19202c0b2387b96c2454db5
-❌  [1]Rinda  |08:58:16|06-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a7820117830f42408507e8aaa72e83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0998d6b3510813964f6b47b11295017f2448fbdc0a03f7375f9dbad29092558b1a07cc9fcdc61135aaacacc1192e6964c9a2fe8cc9780a462b81f0ec6bf4a5a8754", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 2171780128875243, tx cost 3198859837873544, overshot 1027079708998301" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
-❌  [1]Rinda  |08:58:17|06-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a7820117830f42408507e8aaa72e83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0998d6b3510813964f6b47b11295017f2448fbdc0a03f7375f9dbad29092558b1a07cc9fcdc61135aaacacc1192e6964c9a2fe8cc9780a462b81f0ec6bf4a5a8754", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 2171780128875243, tx cost 3198859837873544, overshot 1027079708998301" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
-❌  [1]Rinda  |08:58:18|06-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a7820117830f42408507e8aaa72e83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0998d6b3510813964f6b47b11295017f2448fbdc0a03f7375f9dbad29092558b1a07cc9fcdc61135aaacacc1192e6964c9a2fe8cc9780a462b81f0ec6bf4a5a8754", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 2171780128875243, tx cost 3198859837873544, overshot 1027079708998301" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
-❌  [1]Rinda  |08:58:19|06-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a7820117830f42408507e8aaa72e83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0998d6b3510813964f6b47b11295017f2448fbdc0a03f7375f9dbad29092558b1a07cc9fcdc61135aaacacc1192e6964c9a2fe8cc9780a462b81f0ec6bf4a5a8754", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 2171780128875243, tx cost 3198859837873544, overshot 1027079708998301" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
-❌  [1]Rinda  |08:58:19|06-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a7820117830f42408507e8aaa72e83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0998d6b3510813964f6b47b11295017f2448fbdc0a03f7375f9dbad29092558b1a07cc9fcdc61135aaacacc1192e6964c9a2fe8cc9780a462b81f0ec6bf4a5a8754", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 2171780128875243, tx cost 3198859837873544, overshot 1027079708998301" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
-⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [2]Kinsa  |08:58:27|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfa7235b0ef4e94201abcf6ee356c48d4003bec3eed2ccf5dd225d975a26d19aa
-✅  [2]Kinsa  |08:58:37|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xada1105f487507a6b197e499d4f9105812dc4fbb40e9cdae7fcfdf55958c22eb
-✅  [2]Kinsa  |08:58:50|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xaa9f45b553149ecbd5956e3e9b3fc2384e81f3d9abc3558cfca4fdef0fde8d60
-✅  [2]Kinsa  |08:59:00|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe38c4a318047d125b967f1b28375f1dfd287c67e99fee95597be3dccb6145ef2
-✅  [2]Kinsa  |08:59:25|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x043664c09c03c7f3ac73a41153a2bb607edeca804696e315e591f55d98075513
-✅  [2]Kinsa  |08:59:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x449efe410cdd50afd30591df5ad948d20b9e0e912379decd33fce9c7463cd5a9
-✅  [2]Kinsa  |08:59:52|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6d49308e90f787e93a321996a3df29fffcbfa021a786841ffbeab1c69d1d019e
-✅  [2]Kinsa  |09:00:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfe120b95f7c022abcf83e2eb42499047a8809877d880a665435fe36161e8f108
-✅  [2]Kinsa  |09:00:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa46d50fe7ab0d175abb23b77e3dc2a6d767968585443857e01e854ce5b989cc6
-✅  [2]Kinsa  |09:00:29|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb6c2761e31cad4849dbb2c16aed0564106c60cc07546af9b0bb2d36e4b7e355b
-✅  [2]Kinsa  |09:00:38|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x01b27d93cf10123df92d873244c9f93ba42dcab1412fe5d5ab892ddea0058fa5
-✅  [2]Kinsa  |09:00:52|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb6a59078d3988dbc2c5d74b401b2bfc61fdfdf0562bec1e15d9d664db35f6e36
-✅  [2]Kinsa  |09:01:01|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x82681080fa89b309e36d108d1afbcea835f15cee153b9be236b3048a60649662
-✅  [2]Kinsa  |09:01:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbbba84f3c04f82699745c8c1bc532e4f25059c7efdca0756d00ca11f4367edfa
-✅  [2]Kinsa  |09:01:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfcc7da1a84f6c5993d639a42b71b36cf936994fda14696ac24ac2fc6e64631c6
-✅  [2]Kinsa  |09:01:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8a6224887d76c7313209534f50f773e28519423014fc8beedc74982b8db47154
-✅  [2]Kinsa  |09:02:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xeb6bb0075690b14ccfff1897a2ba7eafb424f3a5a28b75e9867b8620fd2ccba8
-✅  [2]Kinsa  |09:02:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xebad380c72fb400fe128b623c436ee21318a6bd19193d7a3259569081d6e5115
-✅  [2]Kinsa  |09:02:26|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x27821e4601516918bc1777b74bac1938dd677300ce548df2600829dfab5bc153
-✅  [2]Kinsa  |09:02:40|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x73c32cfd191ae53495ab6bd5d6ac23c438cc38f3293070a097d855bade81846d
-✅  [2]Kinsa  |09:02:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xddcbb8f59430e821b5706fe347e49837a06c2952f15029c13c82a6f8bbc4f291
-✅  [2]Kinsa  |09:03:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdee4546a4dd6c8dd071e51e8e5d8c5e86eb62e5f0da1b17ff4850c7d2851004b
-✅  [2]Kinsa  |09:03:27|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3a123044e6722148214b11a5235b02612040ecee23cb34c21a96b69a29c0d28a
-✅  [2]Kinsa  |09:03:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc7615ab6a244459930b0153ef42e61b3a868e3081a2c0ab7eb5f6dae3a62394b
-✅  [2]Kinsa  |09:04:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2a1f3aba510ad9d80d648b3d7a73d1daa357f3fdcfbf54632b1dfce9e8015f01
-✅  [2]Kinsa  |09:04:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd71c7832c31d5f8b82771e46d04609aa3528cb53cee5201da5ddc92e3e4adb43
-✅  [2]Kinsa  |09:04:26|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8e4580f1e85e3d1c985afab220e31be3f63b3cf20307690f292239c06beea4bc
-✅  [2]Kinsa  |09:04:40|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcdf031e6baed739f75aa9353f4125739cb5de895f1eda725ec40d430f0bd6667
-✅  [2]Kinsa  |09:04:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0f7a1d559bda0304a51f25f0688a69159b839174d9e8f6d304da073c39383e68
-✅  [2]Kinsa  |09:05:03|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5d3905439c82a30f8217963fa66c9076413b3de02af92c95de998f89ed26edad
-✅  [2]Kinsa  |09:05:16|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc33be5dc4c1c3ac59287ea14110f24f6da485ed7eb09f7f056e81592ade4e59c
-✅  [2]Kinsa  |09:05:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd8c7f34b48fc00c41d9c356a455686398772709f3b5aa6b7fbe09dfe8ae03d51
-✅  [2]Kinsa  |09:05:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x90913b31233a4bc17dd19251f434a365872f06e6344489e0eebff83eb243ae2d
-✅  [2]Kinsa  |09:05:49|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3844b41b17744e4d4c2717712d79f1b491ff76d6e438844aa83c99daa17a3068
-✅  [2]Kinsa  |09:06:02|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcc43963c4f997ff9f338c1b3dd666922e56b71dffa8254d8ecfaf24aebc8baf9
-✅  [2]Kinsa  |09:06:16|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5f2c5bb8e1385329c6d04ba05284aeccca8c713e53e7b3b67be884378f96b610
-✅  [2]Kinsa  |09:06:25|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x45326ab32c83be792aafe7798f6180c5d1fc0f465e495b916bb8a6ff6815fc8a
-✅  [2]Kinsa  |09:06:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5772b73c293e14ab53172f964b9e78209ed26f87ca6f72499685c75f5171f507
-✅  [2]Kinsa  |09:06:48|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x533b0ac8da6c06d51c8c8b4c8687a0d7cdc70f1da0ce1ae9fbab1590cfdcacd6
-✅  [2]Kinsa  |09:07:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x318e598dd1dd6bd44e91a37235428f5184cf6bb2d1ecaee47932a910ee218bc8
-✅  [2]Kinsa  |09:07:27|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x219451878cfb3abfc4e1da09158b705eea5449f44f3f60247923dedb0f38ea15
-✅  [2]Kinsa  |09:07:37|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe1e3af5caa56c529cc2b83b22a1216bda3aa3bf780ac75588ad7fb4b6b00eb63
-✅  [2]Kinsa  |09:07:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbfe9ee10b76c9e24edf8350b7f67687cbaf1879bfbbe412fa58673f6fe1973b0
-✅  [2]Kinsa  |09:08:04|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa0059520610271ed8f68bb4006204f0d96309bf1a26701af622c53e1b2f8234a
-✅  [2]Kinsa  |09:08:13|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xccf43b63cea777fe4b2481840fa94f0e687492d522c3c4c0e0238b411e32958f
-✅  [2]Kinsa  |09:08:27|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4ee45bcd877ba1c59b3ded7690847a332b865656b69504e539a2fed5e298f1d7
-✅  [2]Kinsa  |09:08:40|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6cf8d081ca6e65597631a339f1199b96bd0f2490a7c7ee19d296c8f3a1775839
-✅  [2]Kinsa  |09:08:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xae1d90464954f20651b05cd25cc7240ca64d06f2a7c0e3b2aec29f11bee0dede
-✅  [2]Kinsa  |09:09:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3e16fb797168b1d962911996f6bbe7aa3a1715165eba29ce58257585058a582f
-✅  [2]Kinsa  |09:09:25|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9224221c39d18405ccaa47fcaa6d914989a77c90ae8def02c0631e805e4ddc85
-⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [3]Miura  |09:09:40|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xefa07e5193db5655865df6a546bc8bfd67278e19783149ce014e135c5b88c856
-✅  [3]Miura  |09:09:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x03f24060a75ebd21309dd219fe902a1923d5169cb2495bc6577d2d12bbd62790
-✅  [3]Miura  |09:10:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd2e58a2e1f80d1fc228a7ec52c9e2fe126acbaea672069172a223bc97f6919c7
-✅  [3]Miura  |09:10:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd24f30b12cc136554b38b08dab2aee737922c54f9fcc8211fdeb8f0fa8e082b2
-✅  [3]Miura  |09:10:26|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc68f1639dabeba7c0cfe26a85fc67bbf16e543128c060a949c4541241196742f
-✅  [3]Miura  |09:10:36|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x06b5e2904398cec6c2a0a0fc6964c40d3a179c02ceb387bedc9c296ffec11750
-✅  [3]Miura  |09:10:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0846153ce15b2da6a6b9925f42bd0407c8be1a54368950afd5a98a1022fe9224
-✅  [3]Miura  |09:11:03|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe791250b2045b10d824374e9c34c94d64f9f8284f16348b1fd640c46fd39089d
-✅  [3]Miura  |09:11:12|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8afa48d240ef8b7f5c806b2f3252e50e735af20782127975bdf01abeaeec3bb0
-✅  [3]Miura  |09:11:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x37be05d5666e24fde903a7fceb3039c7877a7f024aeae424bd19dfdd3af45902
-✅  [3]Miura  |09:11:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x64cb5aab4db8f025c17586daf0c61ea354400830563d5b50d6dad9c9f8c20293
-✅  [3]Miura  |09:11:49|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xce40345ebe48126a2db045c62729536428e7013b79d0fc6b9a2eae1be126897b
-✅  [3]Miura  |09:12:02|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0eb444352cee7e43b25999372fc21c39bf1e7224e32a345c366af2761baf6630
-✅  [3]Miura  |09:12:16|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x82b0d3b85f209c494e5c7f3f77a34451b174a85f5d98a82f33a93e5872184a0e
-✅  [3]Miura  |09:12:25|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd9b934146dd91af645478b101788846238c0749c2383f7ea6c9258d485112baf
-✅  [3]Miura  |09:12:40|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xadcdde556234c446ebc724c15f530822e807be06464c10856dc4aa81aa810ea2
-✅  [3]Miura  |09:12:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x858b5466bc17149bc7f7ae459fb96b0e25edd923ad1b75f4992ac19202771aaa
-✅  [3]Miura  |09:13:27|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x079f03dc396fe4e2abeaeebc308dbed4747e5cc34267227350e64a24d6b8b90f
-✅  [3]Miura  |09:13:40|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0a652a12676ed6cff8d0d1afd2740dd7c2182f51e0bcd1f5ece5f6630436cc54
-✅  [3]Miura  |09:13:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0948af801e2a4f82782b20ce4b5204e00f51fd08703ee3eea6d2eaab23befa6c
-✅  [3]Miura  |09:14:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x10d804357e76b77344d0da2bfa7cfda6c082d920f52268ba318893f6ca7f63d9
-✅  [3]Miura  |09:14:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xde51a9c5ffd5525a88cd5e24629ea31c3321241ca31d14212ca0853b5f1ea57a
-✅  [3]Miura  |09:14:26|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x22b5891ed4e98faf32dd264ebfa0501057c7a6d9f7423bdce87898d140d59447
-✅  [3]Miura  |09:14:36|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdfbec6b863ebd48c98a8cf37fda9da6dc362b90354815dd406b3a6b33af23b91
-✅  [3]Miura  |09:14:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8d04a5b2c4c1aa520294077a16fbd1cb4987934999829b8380f6f7afbc73c81c
-✅  [3]Miura  |09:15:03|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbc4c9bbe4be8252ba2df010c174832af3b828ed0c92079b3dd435c3ae6951ebb
-✅  [3]Miura  |09:15:16|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xba5fc9cac693f4c3fb423339e0544acccd6350152917a4611b7535ca90375369
-✅  [3]Miura  |09:15:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x518d5a7fdbef91a747c7f0a80b67eee443e954b10e00623cf443b0c9c2469938
-✅  [3]Miura  |09:15:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd58fe6c598caea7a7a7456b12142f76d4bf37dc7184fd7046382b0230afbfa50
-✅  [3]Miura  |09:15:49|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1cbb8478c212a572dc5404c38e123fd01362fc37943fa23e5870df9f560f39c5
-✅  [3]Miura  |09:16:02|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x22bc2a3be1c92e68a68fe791cd55b5919b6b76bf2f0f35a49596278c62fda13b
-✅  [3]Miura  |09:16:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9c0579e8c69db1a41c6a3acca2cb0c17faff224438fd209a86ee8d799bf1c122
-✅  [3]Miura  |09:16:28|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb15f588592c32ac37f30082217918846ec7164919a5a23e3eca26660715c7016
-✅  [3]Miura  |09:16:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcea66225779fb3256eb47bd7c21122d95848cde7c9b5b79a4dcdb2f47d2b05ed
-✅  [3]Miura  |09:16:52|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x46cc257cb86632a3ad62c988452c1522ba02d62d5529180140ce391de1508ea9
-✅  [3]Miura  |09:17:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xce59a1e0c642e8fd57fbe7b0596a3f647217597ea33f2ffce639b6368024e38c
-✅  [3]Miura  |09:17:27|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfd2cb57408fba6f2f74dc518c510ca9030728a8e7d503c1214df4846577ec017
-✅  [3]Miura  |09:17:37|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x028d75258d7be593d06cd467da61a8fc13a6fba5b2574625de3c81457892e3b9
-✅  [3]Miura  |09:17:50|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x320ba2ffbd643c0675037e9deb8f3afd5bc5b6744f0a5e9502b799a2dc12fd22
-✅  [3]Miura  |09:18:04|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0c1714588cad8fe383a549b2c2dd0a01db184bfc94ae1e1fed3464f5c3aa53dd
-✅  [3]Miura  |09:18:12|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6f3b017853ad374db0c4c2f8b3bd3020c769c260f2a60e498ad0f01a3e16455a
-✅  [3]Miura  |09:18:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4e45ca1e76a41652079b74c422637f742cd9ef4588699d677b740230bb296f83
-✅  [3]Miura  |09:18:52|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xee2fcb6c0d101c256285a4deb05a7909b50f0ed145bebbfdf34d02832af693b3
-✅  [3]Miura  |09:19:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x075d7b44173bbd79b89528ca28fe031f07bd7365eef4c669178444d6a70efb08
-✅  [3]Miura  |09:19:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd3b5b615db77874c8c9eb94768adef9fafd1c4bad72ba484b87adf9adfcc63bd
-✅  [3]Miura  |09:19:25|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x20610d0541da3bc60a336b1d34ad8d8d4127ef9b359ed608eebab693e5acd61e
-✅  [3]Miura  |09:19:38|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc1a26cdfd49f27e07ae7e9e41d002f4d991899ab4cb68ebf35d42f212c76050a
-✅  [3]Miura  |09:19:48|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3220e9ba155e9780e180146835662d53bfc75549bdb3aacffe4f60754c089fc2
-✅  [3]Miura  |09:20:01|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xffa39c26826b0431fd4ad849a12f576f2f72618465e1ec185e3ff37461e277d8
-✅  [3]Miura  |09:20:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x663b353ed7366155b13b8db39cd51a5373a6d9fc24bd748d569f374bed72ddac
-⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [4]Luana  |09:20:26|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x11729a49d98361e6e4d6b524d1916ed3e026ca118ffbc42489f43b8914cb9c06
-✅  [4]Luana  |09:20:40|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe11262c3850cdf2b2148b8e3fa7c9092a67ead5f9cae788c8e16921060a6d689
-✅  [4]Luana  |09:20:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdc17dd80a75e02a02a97df677af342dd95f579983ed0b392a666a20130143d5c
-✅  [4]Luana  |09:21:03|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1dee082c5ef18d7a6120ddc935f7e1eddec50870bf752e2e0684ea4aa284aa94
-✅  [4]Luana  |09:21:13|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb2c57c6ea2d6fcbbcb0a45c5f54621577b606f278e4850b31081f941c9636115
-✅  [4]Luana  |09:21:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x614bd9db3d78854062afe7e25ca75d8dc5e65a0d482a8d0f7269580edfdc496d
-✅  [4]Luana  |09:21:40|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x42ac47b20ad070eb1b6ec5a502828a36ff7301982f098849942a4f5c2d1faeb4
-✅  [4]Luana  |09:21:49|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x00f0855cb1e0bee77200baf8ede7625e9bfc21f0aae55fe9b842d967f384468f
-✅  [4]Luana  |09:22:02|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2a608695e9b22e99f78370d56f97bd30ab4800a497424df2738beef16af72ed2
-✅  [4]Luana  |09:22:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x96a3b842b20ec7bf3892e5cffa9a5cc707359c6627d82e35ad37c2606a901b68
-✅  [4]Luana  |09:22:25|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x214750f3d987f7bc3f14061fdc6d0dbbaf0212fd25ebc77e61a49d2816b6ac94
-✅  [4]Luana  |09:22:52|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1d5c5529d506d861f4fa56538e78f2e32b2a696af648d6fb6ac61eaac5ef686c
-✅  [4]Luana  |09:23:00|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x80220613cb551d185d8e60f54e4724683611db09397a3275ef9f6b1ee7f01243
-✅  [4]Luana  |09:23:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0f7004c54dc80ad7922cb805244987151ef32839e389e6f3f010ab8573492b82
-✅  [4]Luana  |09:23:28|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x22f2e3edd98e455254d26ccfde018f61fec3f4d89804c129f8d90a21bd641ce5
-✅  [4]Luana  |09:23:37|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe3b99d8b77d33b52b38be5f56a04c8d668eeb362fb2194c1a30bf301eda34787
-✅  [4]Luana  |09:23:50|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd492284ec8561eed249de38b3da78e39f12ad49ae2a439d8a60611226e08cda4
-✅  [4]Luana  |09:24:00|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc41b6072f122c5e86ad472a82b2476b7c069fa6c715fd9a909b7c553f29163ad
-✅  [4]Luana  |09:24:13|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcf148a72f53c78da2679ca0bb142f2d310147066a8d8aaf4a77632fc574ea81b
-✅  [4]Luana  |09:24:27|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd7136fa1c9964488ab4cbf80a6b302e8115f0e4d6fa8b3ec84c994dd4040fc58
-✅  [4]Luana  |09:24:36|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1c9656386b9dea6bca4ccc030c6097c383549646883adfcfa43beb7c7754a612
-✅  [4]Luana  |09:24:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd7c43e2abfdcf0e0887e926931ea345d5d6c02f6d2ecb0d77cc3b2d1aaf619e4
-✅  [4]Luana  |09:25:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x66dd239be5c4c1e45e3db6ae6d515e1f55b6a21f875f9818b56ffb473da2026b
-✅  [4]Luana  |09:25:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xaa6213080ac0bf53b036558f9fb432d885c01df1d11d1aa1bb76c4e5abbf83ce
-✅  [4]Luana  |09:25:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x330f5b0a4f955edf7843200550e4a353477419403d823deddec251da6fb173b6
-✅  [4]Luana  |09:25:49|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x638d3d8ed5c00a9f0275f3e88944e2c3f5066e9a8301e1783068b7338875a1c9
-✅  [4]Luana  |09:26:02|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf005ef5f2ab01cfe4ec8af51c7631019ddbfc97f6842228e50996f622843175f
-✅  [4]Luana  |09:26:16|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xddd54b794e0b16da0a568ee5bd4ffe59239a4f15fa4910dc2b981de55e81c165
-✅  [4]Luana  |09:26:29|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa36303d0b47ab65a9da53398bdff006b69600e6cebe7703da149c4da76d99883
-✅  [4]Luana  |09:26:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf58c8f7cb05ffa476c4b6a51147c009bb3122ed5fb47ee0d28f1fc6080a6d42b
-✅  [4]Luana  |09:26:52|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7c266085c5fc6cbd1495e1cd47cca440855821c5dc9c52cddaeb97bbddd90f77
-✅  [4]Luana  |09:27:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe4d2d3a47a31f5ffc0c0077251a2f9ceecd01b5460687e806cc74cb921e98a38
-✅  [4]Luana  |09:27:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x79ae1ca75eaef4b11aec163e59d0390f5086b16114e4bb851554347ca8659cfe
-✅  [4]Luana  |09:27:25|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf9cf3571d547efe41bc9a5895d8ff71fd38203052710e68f9ca2414f4f8d236f
-✅  [4]Luana  |09:27:38|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6c0c69929ee4d3869a3412ca8dfb97e333585a64d97d87024648ef51263e53b1
-✅  [4]Luana  |09:27:52|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xce32a6110f703329f5d9eee6650861d480c16cc139921738886e642d46c0abd1
-✅  [4]Luana  |09:28:01|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6f1397fddde6967d4f1c68804592369adc158cbd4087418f862340f336d49517
-✅  [4]Luana  |09:28:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7f9b43105be0d1f6535389944e8b3bfb122dbc7e4be980b4e1d0fc8f8fa1742a
-✅  [4]Luana  |09:28:36|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd9ff5d25da9106f4734c274b10a50619575cc4db2aafae339d1f5c7efced2847
-✅  [4]Luana  |09:28:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x33276312cbdbe6cdc64c184b9aa7e5d1acbe86466dc761ca978d95de53159c5e
-✅  [4]Luana  |09:29:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2db6ab5ced5096e84e8d972a43353804e9e0e68eedd2f588f9b3888f28ad7115
-✅  [4]Luana  |09:29:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdd1f0b6e7e5fb2066b8bdf5297fda3b2ec0555fc7a2378cc513dffc492345595
-✅  [4]Luana  |09:29:27|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5ceb79c59302458af8d29ca2378eb91a22d0d62c0bb347e550c4ed14fe6fa3a0
-✅  [4]Luana  |09:29:41|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3740d1532ae3a02fe567df7e4bad9a9aa844f89227ce0b4cf4391c02c379ded7
-✅  [4]Luana  |09:29:50|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7852ebd243f8e8454429fc1260606cf6e6489cb6750009a41509937052549826
-✅  [4]Luana  |09:30:04|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1892eeb5cadc2e5830ee80ab6d22106e79afe43985ccce52fadde9588b3c63b6
-✅  [4]Luana  |09:30:13|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x26613b166852b98e294b0b494c84697f9a6d548f6b32f79a2f0b3dc77c7aaeca
-✅  [4]Luana  |09:30:27|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xce835ed879dde2fb874d7de685dd4936d4e89d7309a74bbd7e9554025212b341
-✅  [4]Luana  |09:30:40|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe9dd044f672916fd6f85e0b860257e7d244c78b587d0530d6a5b9f02242d6929
-✅  [4]Luana  |09:30:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb3eaab7c733e1c99401d6fade64b4d26020a15072566977afca025ccdf366c57
-⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [5]Linka  |09:31:05|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdc5275eae9a90c8b6afcc985ed85ac6864613aefb5e7013e1e5e618d5d4415f1
-✅  [5]Linka  |09:31:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x289d1f6af9a9cea2999d44f4bf435fedbbb6bb821eda17dbea6688bdbfcdb4ea
-✅  [5]Linka  |09:31:28|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x485270ba8c5660b12d780f80b8309bae9df5169477b5f066c8988ed30792456c
-✅  [5]Linka  |09:31:38|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcec0c71a28d67a5ed9ed3e0ab046155befe639800d3f6436d828a8735a101313
-✅  [5]Linka  |09:31:51|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe9bfb24df13ea3d0f7de13ce4dd9acfc5177c84786d9b708ea149676eeb4fe05
-✅  [5]Linka  |09:32:01|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe6d56ccb2f0864d8baf1810d7d14648c3e3f7d683d086b33672c4a59a490efda
-✅  [5]Linka  |09:32:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa02708743437953e2b1d7c7989d1c312c8e42a32739592b180ff346b33e73802
-✅  [5]Linka  |09:32:24|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1ffb9665dc8d4ef9d029ebd924f99c8e3ab7e85420acd331c09a009b5798d48f
-✅  [5]Linka  |09:32:37|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x28e017615620992790b5e87f5a5e0abf4aba6505a8401e75f49b78c36382f6a4
-✅  [5]Linka  |09:32:51|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb5d7e3057d3fdaf4c4e35c388c5532451295cc32381cb113b1df86aaea660502
-✅  [5]Linka  |09:33:00|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8d6423a9fe3775da28cad9c236f827f422ecb940187f6e01c72cb79860b7903e
-✅  [5]Linka  |09:33:27|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x942e2053a3f8ec62edb33948cd8a848753cc65130cefcdcaa22ac84d26332cc6
-✅  [5]Linka  |09:33:40|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x35f5a9b1da98105d185567c2c38eb11be629afa4cfb7a724769616d01b309697
-✅  [5]Linka  |09:33:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x88a33dc3ca3c8fad2589cdf473c503e45fe5040d22ff3477c3630d3e44ee1ae1
-✅  [5]Linka  |09:34:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3928688de66c3b9f9ae5fa6b3317661e06cd1fd4307178f19fba3169edfefad0
-✅  [5]Linka  |09:34:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x041e54d1213b591f8544d1526f4bca3f4670a0091f7755b7a16c6f539b148eec
-✅  [5]Linka  |09:34:26|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4709e095ae81830475a3fa8841fb3bbe5205e97b4343d419eacaca768fdf8f13
-✅  [5]Linka  |09:34:40|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x70d9bfbe322c80dfdec8b8c379d17b6382c53784774239edac2a55210c03ba5b
-✅  [5]Linka  |09:34:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2bd5c2bc91ed2c56c416be6e9d6972207b15981fca55cd837a8178505701072a
-✅  [5]Linka  |09:35:03|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7f24d51dc9024215dfac4e6315dadf5bbf0ce400f4b5db148779b1dcaa71dedc
-✅  [5]Linka  |09:35:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4e5ff041e73c572f9266cbe0a981b9d14cda6105011fd61398cedcfb38faac8e
-✅  [5]Linka  |09:35:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x297e3fa616cb40d8ca7c8681bb13914b5943d9c261d97b6fdd3a7d950a1b479e
-✅  [5]Linka  |09:35:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3f954eec397f6e823c526c8608fa5955bea6edb810d056c80b169ca03ffbbb20
-✅  [5]Linka  |09:35:53|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf54a8813ae3b027bea0beb228886c704b9277b6e447de7665d73ad380da5d695
-✅  [5]Linka  |09:36:02|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0418a05f7118161e51eb6b73cc518aa6f287e1eae3f81fff2786a2129bc25be1
-✅  [5]Linka  |09:36:16|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbe79048711783e23fcb1ef6ad76afc92fa29b4b0f7bc297b61f22aa46fdd882f
-✅  [5]Linka  |09:36:25|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcb903d6a9411a17ee485961e78e08875fef6d10666a3bb0b51b9549258876c7b
-✅  [5]Linka  |09:36:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x23eb2da69d9ad99b82c317b4526eac0603685569e595ada700b0d3dc650bbd3d
-✅  [5]Linka  |09:36:52|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8a62d85add02936792926a2f9199c1b0ed1611178eba3bf157ff12ed10cd25ec
-✅  [5]Linka  |09:37:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x95111d9dab4c55c83176967973c187aca833a0d88640ef7d63b0c20fe03f2d5d
-✅  [5]Linka  |09:37:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xddd6676cda2ca8aa4e5a022a0f25e8ff9bb6faff61f761df6d7bee86919e6c03
-✅  [5]Linka  |09:37:25|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd1895d28e9cf1a582308aef909831ac3172fd79003173e27f7421328432f5ade
-✅  [5]Linka  |09:37:38|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6dd6da9a94564db6df3b023ed70d2cb54b2e253875679451e6ecd97c2fa3a649
-✅  [5]Linka  |09:37:52|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7408eeffb0614c131f1efd2d942e53e6a4d31258ed909d9ea7b48fedd0a4029a
-✅  [5]Linka  |09:38:01|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x35f4b1455812a47888a5dda4f8aa82b7938b758c784cd2b65d3cbea23ded616c
-✅  [5]Linka  |09:38:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9b7e6cab0a4f48fff5cbfd8a7675f09279c20457854714584266177a7f55f349
-✅  [5]Linka  |09:38:24|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa92dd02f6e1b1e7befa36841e16979b2987a72bba942691b2f69856dbdefeecd
-✅  [5]Linka  |09:38:38|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x26ecc7c2a8be8d21d1fcff61b1c63b0bf441d51104d966ef80aeda83f8efa08b
-✅  [5]Linka  |09:38:51|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbb94d307d243b4bb1e623bc6cb480c3814f789c0246a10b988ea58d09495d373
-✅  [5]Linka  |09:39:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3af87f7c12cf47e9e12642b3f2a3b8f8a7d16d8a73214e5111b85bfa6a5d5aab
-✅  [5]Linka  |09:39:26|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb30320e387db9e52c5802832b92af8a0c6588d5066864432067993d819a4dada
-✅  [5]Linka  |09:39:36|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x885e646a74ab0beee544a7d288e1d87c097db7aefec858cc93431b5616711cfd
-✅  [5]Linka  |09:39:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf3d7ebc997f1e81f9131ad4a42cf1ca6603aba062f2bec0fc0f5d169b08a0bb0
-✅  [5]Linka  |09:40:28|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf78f22482104e2b47edfef20732361f8d6adce0a9ef1ae141ed08677859f9771
-✅  [5]Linka  |09:40:40|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x891c793866c21956893c7f5e1e4ccb5386ff2ef924fc4c7ae91f2789de07b81f
-✅  [5]Linka  |09:40:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x35573515e333f55ec621d503f3a5de030fc20242d576c30d6611b9cf7a64cd33
-✅  [5]Linka  |09:41:04|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8bfa3293739f58405897537305f29601d434ac36ebfc289f57e355bddfa2df6d
-✅  [5]Linka  |09:41:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0d003900fc4f787f567bc2ef68b775a60a91246b32fe534331d8f6d4ba3fd05b
-✅  [5]Linka  |09:41:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x206e1182a6dc0e6df5f8efdaf57363467a0c2aae9e9b5628f25e3e23e5f560ca
-✅  [5]Linka  |09:41:49|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x855acc7a33c8dc036cadf11be17717816e99139b1ebaa6f1dd35499f05a921e7
-⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [6]Nilka  |09:42:12|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x652ce32d8e2d743dfc9ac1e9e2834a8cea77372a825e4a806f1efd8baa822a3c
-✅  [6]Nilka  |09:42:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xff36982efdeb1c79f375ee4543ed6ab100dc9730ed30989a0cbdb87c1888c887
-✅  [6]Nilka  |09:42:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbe663a3ebe9f62f38ad081701a19cd3fae95f62efec5db2d2ffeaa75d1f92d24
-✅  [6]Nilka  |09:42:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd8f29cf7a5595f314bb503a1dec245f162a5b67b53ac656e6573996c0337c104
-✅  [6]Nilka  |09:43:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x137d014af07a1daa2436d16832c27119f2528942209ca71100f39d9b09f292ed
-✅  [6]Nilka  |09:43:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfd46a622d2453f971e16495a3334c374a4c39a898017e2be3add6f7ea211e649
-✅  [6]Nilka  |09:43:26|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xad6af2eef7430c1592711ba5d0c6822fda5f55a659b1cc4150a3a2c91d94dc17
-✅  [6]Nilka  |09:43:40|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x68efccfd7eaf39ad7bf70f9363ee113eb897efd1ae26b661ded5c4c04be97abe
-✅  [6]Nilka  |09:43:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8b4435cd8d8f01ee74bca3961a84647901eaa9b5302d2602cee9a96c4387f841
-✅  [6]Nilka  |09:44:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x58e8b4372a2dadddc44770a9edcbf7aaeb212cfd7eefe292ddd274ef511b39f9
-✅  [6]Nilka  |09:44:16|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x04bf4e5fa8880c18ce896d41e774fa6434167521c392a9be3e3d370f05f9e06a
-✅  [6]Nilka  |09:44:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0490e908c55b0b709e863527811d418b7f9b188a1d58c5d50af001aaede4368a
-✅  [6]Nilka  |09:44:38|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2817c70c0920ceb3eced7d985afd65b5cd29797a6bec8685b96db435bb5d166c
-✅  [6]Nilka  |09:44:49|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb0b1fe0f99a893dde30207e7778b1c6c941b94e22b43c271c15bdfdaa3bb8a2c
-✅  [6]Nilka  |09:45:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc793fff7af215c2ef69f124169682a5de940f2d7dbbc99260ce84a02192df43a
-✅  [6]Nilka  |09:45:24|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdf8129190a82f5b738edea282251df956c11bf52c4a17a739af52254c9f7b2ef
-✅  [6]Nilka  |09:45:37|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc6495afa14225e18df53f11ff9fc935df8118ada4c31db91c4f5a17aa6bd8b32
-✅  [6]Nilka  |09:45:51|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x31caf76ff6039f40404b2300573ce51a7a201dd5b4e91074af91cfa04b7a517c
-✅  [6]Nilka  |09:46:00|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa0d0dea933641175c2848db6ea2e09e1e5b11c35b21b0cdb5c934205f2af3165
-✅  [6]Nilka  |09:46:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc72c927090d5e81a3fc02e4926d4fd3271d34fed688a64a61a57d8dc47a6b099
-✅  [6]Nilka  |09:46:27|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfdd4913bd91993c3a1eff6117434e947e7e151b90a6c96388217a2295bcf2908
-✅  [6]Nilka  |09:46:37|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x282978c482e318ba8dd2c7327fd4cfc6410c7e5a4100d754a65ea730a5247f37
-✅  [6]Nilka  |09:46:51|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe1ee334d2f28b3e53d689790333e9b51c66b1ca7d0a8221e981eedb351559f9e
-✅  [6]Nilka  |09:47:00|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x731f8d2bbaf6856fbe993e7ecb4d79623e238fcbfe5b74d805ec032d64a0ae08
-✅  [6]Nilka  |09:47:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc6c6b04c0e76c134577bee74ab077fc5d7b82dd2906cb367d20db637a1d8fc75
-✅  [6]Nilka  |09:47:28|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb2ecac7755dfa4f0e8f62737ebdc49da5771f5b10ba5ff809de968d13f3dfabe
-✅  [6]Nilka  |09:47:37|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0c475eaa431b8cf0ed51a824448f6fdeca91d3d22ed5de2f43925e19abec8ea0
-✅  [6]Nilka  |09:47:51|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe3ef106e6c3df1e16f33d81ad9e6d1030816341df97ae91d8e0ec09eb57c3077
-✅  [6]Nilka  |09:48:04|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7300b9abe529f04c34f471bf737fbc24eead1b0a5256f937295a6b7421f9f9c1
-✅  [6]Nilka  |09:48:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x83842db10e8eedad2b6ac7c562aa28d7f23839dea767692bbf9aec7d3d2c1341
-✅  [6]Nilka  |09:48:27|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb9600ff6d26a8f3e32dcd38cd9ea1eac8f458f8802917fd70d7187349756d7a8
-✅  [6]Nilka  |09:48:37|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x11bf50271c1fb8358a780b619d7b9c394c95dac3fe38b260145afe1d3a8e36f1
-✅  [6]Nilka  |09:49:02|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9eb070b25a5479997efab9a1b3d7a35a6f0280a71a40493320fe967b7023ad3b
-✅  [6]Nilka  |09:49:16|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x29fe5491c1eaeac96a5f57e86ae9beb6b280a0fb2a9d1835e86c8a9677fb1e6c
-✅  [6]Nilka  |09:49:25|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa6b551c6468f6e69f0af4919e4a6cbda4b29d41e5cd4928082cb11158783b521
-✅  [6]Nilka  |09:49:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4928d26b22b07b8568e0fb192989d399c7cc8e8be815881727bda35f01887308
-✅  [6]Nilka  |09:49:52|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd789518ae88ee8c7b4d42152fcd1abc7d8783c817e803854daa104d53a1c3ae0
-✅  [6]Nilka  |09:50:03|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x542f29941d92f5efc5eb8c1a354bec2cd7cbdd45c54e7d98c4e10be4bfd2204b
-✅  [6]Nilka  |09:50:16|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xded91a7e53de366fbf619429652e19b73d059266c480ebec612fdcf5e6634536
-✅  [6]Nilka  |09:50:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa2e9690c8917bfbf0acebf5ff77f368b2816aecbf5fd8ca3049f98e3073d093f
-✅  [6]Nilka  |09:50:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe1759db61ccb24365896c39a8b64196e552789340155699dcaf09299f95cd5e8
-✅  [6]Nilka  |09:50:49|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x604697bf3e9696c15c2d3b65cdb07698ae5c57e0c98d720923f6e8cedea7c661
-✅  [6]Nilka  |09:51:02|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa31c96f1e5dd094caffcf8ec9adcf32365fe2ee724bc4ec384d9eab4a05a4a35
-✅  [6]Nilka  |09:51:16|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa074884d5a661c5e0efabc6a83807df1e332d70c2174abadb2e921e69c72f0bd
-✅  [6]Nilka  |09:51:25|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe1355a49a47c7ff03b80e6e3f926b08b0d9707d214149695adc98a8f8f565057
-✅  [6]Nilka  |09:51:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3589cec421bcd4c44cd85c3f5391e085942b8e7873514d87f1f0fb36b2dc0952
-✅  [6]Nilka  |09:51:52|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xaf167dbfe6043e6168410535e3644796308659433fc4d87e2ae33f30cdd25a00
-✅  [6]Nilka  |09:52:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfa4c1a316fdd18b22e25aec0ae5de249477f54268fb11047ef388b9cc1a40530
-✅  [6]Nilka  |09:52:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x063c51e4b0ea80f7233bcf8ee067b17c28c618c955957e0e11f2d91ed53be706
-✅  [6]Nilka  |09:52:25|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdf76838730bc9ac56b0f0c53f5fe1135927be0e8e97f861dfc8fe0c9047dba1a
-⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [7]Liona  |09:52:36|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1fb93442f7faeaa308ddd1c1de267776058b69cf43cdbfaa348018fadaf0836b
-✅  [7]Liona  |09:53:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb92bb99493ac7259616aff86ba4ed06ed6b83ed5596b7486ff176b29e6c2dfe6
-✅  [7]Liona  |09:53:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xabf7ce3f1b4b717f0d3f00117b142e6fdedb08d632a8c0bd9fc86daa3711eadf
-✅  [7]Liona  |09:53:25|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0c5a17f100e67851acba469ca0c46686af6e3a5150a85a81c429aa61add48f25
-✅  [7]Liona  |09:53:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xff13865019bc4b04ea8cb2450465c7c07f93664f087b4b9f211c4c59254c1854
-✅  [7]Liona  |09:53:49|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xde62cefebf0f2c3fdde78c8526bc6def269d4c90e6abdbdbf5994a03b4a07520
-✅  [7]Liona  |09:54:01|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb532659b6d93cf3c39a5a1601a2b451557aaef9b3288c7ee23fb9c3bc97e791f
-✅  [7]Liona  |09:54:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbf9b8ac2b97e55e0f01286d2376e550617dcbb1c6160964f675c1cd4e28719fb
-✅  [7]Liona  |09:54:24|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfa93e5c5a66b900a1f745eff2746a5fb5b93cd242fcc97a5543b579089c56c8d
-✅  [7]Liona  |09:54:38|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x21872029280bf727133815e6773fc23c8d703f68b6ff2c6b32440009fac16667
-✅  [7]Liona  |09:54:51|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7e421f402a21a0d745af42d585be8f2514da3bb9fa35ee001acec882ae923d7a
-✅  [7]Liona  |09:55:01|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8678577c86fa1afbb62c1e178aed3f0571a2aff31299cfaf0c5c2b27bc675c60
-✅  [7]Liona  |09:55:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3c76921618e6b7b1bd49f0d25b4492eff9e185bb7dfc3ccb1e541b8c68fa115d
-✅  [7]Liona  |09:55:28|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa40baffff3cb20a9820e270732f7f22e72b429ff9e71674112c515f39da33766
-✅  [7]Liona  |09:55:37|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf122a0d6e921f3be437e80adc0c876703a4a88362266cc807babd8b1e022e31b
-✅  [7]Liona  |09:55:51|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8dda19caf913d81d874aeb1a81f1164ec99f8631869fc78a09923dc5bbd133eb
-✅  [7]Liona  |09:56:04|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x773f4259e2fcf0f711d0efd3c12d78853440bca8b7a9976187914e9c80febacd
-✅  [7]Liona  |09:56:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x449833201cfdd015e586ae005b6ff6562071c4bc71f65d93c94161262b99f5cb
-✅  [7]Liona  |09:56:40|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xafa70d932ac9901f73ef8e43d2f6f9ac94433be37843afb4e18faa31d1987814
-✅  [7]Liona  |09:56:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4437c776fdbd9fc9a0763cb7339c97d39f46e9a9c4afb9596ee4d8acfb67b3b4
-✅  [7]Liona  |09:57:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x25acf1c875012a9c2dc7388313b25cf4f0123911332095783cc6fe1d6229205a
-✅  [7]Liona  |09:57:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9270525887e74e5924dd72923ffb7d5d52492d5418fbceabd3a4f8836d730ab0
-✅  [7]Liona  |09:57:38|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe5c247271687d1d699b7cc26225c2b61b4d4f29abf34a766e9e50f98e1b48b8b
-✅  [7]Liona  |09:57:52|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4dfcd15c0f25312b3de23e60a50f5896be3724818bcdf8171f44f5971bc8e434
-✅  [7]Liona  |09:58:01|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcfc1d200e77f5322ddeca7532ea86f6970212046c107eb343a31dd493865874c
-✅  [7]Liona  |09:58:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe04fec92afcab8ac4f961e4e98f4abe6a404a4b8af8f7c54ed926c932ca7b321
-✅  [7]Liona  |09:58:28|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2750f34161ac84997898211e6f125440c561307f244ae6ebe84b28561339753b
-✅  [7]Liona  |09:58:38|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe95822b2b106a38ad1502245d4917b6354be6a8f82a47424793d8020a1ddff45
-✅  [7]Liona  |09:58:51|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3fed1c731082db7e5d66dcc45a35640e6f8166090206a5e86716fac39f766353
-✅  [7]Liona  |09:59:01|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf7eac10991dc66e2f591527985fba1cfca7a59fc04c5a9f19db99770605f8d32
-✅  [7]Liona  |09:59:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa4881bc5f01702edeeddb85eaeba358423b7caa33141bd60ed0b85404ca79c56
-✅  [7]Liona  |09:59:27|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x40d8c23a5809d9a4a0cbd2bc8bd7b8967eb48d9ebc790a9566689b20a2ca60b1
-✅  [7]Liona  |09:59:36|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x53a5e137622cc331053e1e66348f48e5e54b674e26a0e358f9c9a4b52e689ad2
-✅  [7]Liona  |09:59:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x99f290b1eff57f207515986c853dd2d60113b47f1a8165a33d830742b35b2d74
-✅  [7]Liona  |10:00:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3e24d25959571638fbd9c7f3f27e897f1f8bcf1362bf22aec1075f6d60df84db
-✅  [7]Liona  |10:00:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6ff0d31be29b5d16e9dea1eb2f7f69475ad8f13420f495505733703625bd22f8
-✅  [7]Liona  |10:00:26|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5814bb107e176145d3a43497494497339292299ff9abe9747f9bdbb134d202ea
-✅  [7]Liona  |10:00:40|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa56bdd0b23d8201190a77b6877a63b0839b95c016fa4c744e59a8310cc42fc02
-✅  [7]Liona  |10:00:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4f0498bfc6cd58a1a119dde953f06a745f3e19153a3cc6da25438af98fb4154c
-✅  [7]Liona  |10:01:03|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9b7bf6aa378a5b1172afe37314344ea5e8aafdf73c933d2b41e79595747fb984
-✅  [7]Liona  |10:01:12|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd3ef3e113aa8a0ac7454e5ebc4b7d2fd27d393510f2c96c4e55c74e241e57e60
-✅  [7]Liona  |10:01:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1f30d08c00a599dbc1c4720333aa1e0d91cabd4ec7faab25b62391a149150db4
-✅  [7]Liona  |10:01:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa9d4d2897c862b7df2c6620f9358d0fee7127ad5da104e7014766f8b9214ad32
-✅  [7]Liona  |10:01:49|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2c630aab7ecdb4d56a2023b4a6df6948e67355245a18bc7e72e840a7eb0e59ff
-✅  [7]Liona  |10:02:02|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8b47783dceb8dfc902378902c7d3a27584a30c3f0d78b2fa0f32b66738064bd4
-✅  [7]Liona  |10:02:12|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3360ca7c7aeb8b873b44fa9a10f1624a65503a648a962c67c84aaea754f16406
-✅  [7]Liona  |10:02:25|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdc1f4afa51b3a48daad016b2ae9d1b78a942e9b4362a00d6593123dff4c60f60
-✅  [7]Liona  |10:02:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5b930b0379a74e342ea891d2eb1699981daf47d79cc4218f4269199505119e2a
-✅  [7]Liona  |10:02:52|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6dbaabbfc53884bba46498ce7addc9b164fa73ec7e291fa827b5fd09151d4278
-✅  [7]Liona  |10:03:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xde287f9f1f9018350625d3e3596bccaa8f9c4d23839ebe7bdd5c4b5fae65d1f1
-⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [8]Nincy  |10:03:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x568f2db4f05686414cc0abe81fe350e965d598602ddba03281de8b6802eb768e
-✅  [8]Nincy  |10:03:28|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5ef92df52ed5fa2b1509ef00e84c1c6f4feee12987e2c8c238aec43000da1637
-✅  [8]Nincy  |10:03:41|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7118afaf90a0cec90a0b2c0da728a6f913517329962740d5dc5ef7ed369ffe22
-✅  [8]Nincy  |10:03:51|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbd220aa531cd4a2bb5641101eef7a46a64a48e54a367ae7d5f2a2b5dbc4c5f69
-✅  [8]Nincy  |10:04:04|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xef485634674f5922b487f175c552d1b748d0c0991872315b77a55bda7c124abb
-✅  [8]Nincy  |10:04:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4c12a83824f88f8a385e11f4451b1d2644a5582733177cdc8092327b75ed5398
-✅  [8]Nincy  |10:04:27|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa60c6540c85a139600fc56e76a9e7b918147e974f39247c2ae86d0b1c7eb0a3a
-✅  [8]Nincy  |10:05:01|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe296686c2482869330819d5a28b8f9261d3f465b11854277403210597da7df64
-✅  [8]Nincy  |10:05:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x60d1e6fcf6a104694fd38a7abff51b8701fd3a686fa1d382e5af16ed74be7a06
-✅  [8]Nincy  |10:05:28|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x619c9401b5c62ccc9c3bf4475264dad32cbe97a09051dd2ad9e3cb6635cdbc92
-✅  [8]Nincy  |10:05:37|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xde1d31d6764ff412e536f62c879d95dc9994c8fe31a0185563e5b8500ea3f2ec
-✅  [8]Nincy  |10:05:51|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8edeeec8d227288bfb9601b6a089d7fbbcb7f7e4bff57846714c134a8e8d297f
-✅  [8]Nincy  |10:06:13|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x258148aebe8696427a3bec016fc557f52ae36a43a9ece2bbdab2fdc98ed4df79
-✅  [8]Nincy  |10:06:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x50f9e8df4b61a90db64b3a73d7c21bceb74b430092d1bd59552d1281e719c277
-✅  [8]Nincy  |10:06:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe0c7acde13f9a5bfc70d0c1f57bc023d652cd5c5c08704d2aaa5deeccbedf67e
-✅  [8]Nincy  |10:06:49|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1897089c13bae85d86934c542ef495e1ecbae5f1f08b07922c2320bdf1f589a3
-✅  [8]Nincy  |10:07:02|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7ac214d80a0401ed56a2a7e00012bc1ee04675192db2674153e0609132d5b37b
-✅  [8]Nincy  |10:07:28|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9ba4d50945d301a9257e3f3155b3327b012c58082f4f94e43beb2dfbe2601172
-✅  [8]Nincy  |10:07:37|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x56b20f4aafe7323b766840eb5c589abf1106e7341443f8b6a825d82fd1c499a2
-✅  [8]Nincy  |10:07:51|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc0f01408db7e24b6b40e29c6d4841afe5b57c01a3d928292230672cca50efad3
-✅  [8]Nincy  |10:08:04|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3823ff146e771847be84f2c549e77d4d3dfe8f532b044e9448dd499601480c66
-✅  [8]Nincy  |10:08:38|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb42fbeb17f1c56bd161eb563102953268c0c37595887af763b1c5d4f5f750146
-✅  [8]Nincy  |10:08:51|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9070cad04033fdaa9bf003eb3b7edf1b5334d79fd16c03d999dbb686d73c57d8
-✅  [8]Nincy  |10:09:01|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x121ac8d47eaf5b902f2adba8259f8ff01b2f2975ea0681301915776ceefe3ac7
-✅  [8]Nincy  |10:09:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1e46ffb632430734c9efa7c30972003b00113a34865d5e00db1bc411374df529
-✅  [8]Nincy  |10:09:24|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7e1de79565e0e6218962e982b17c34260713a3a7241734dff9703fd12964b2e8
-✅  [8]Nincy  |10:09:41|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd2bab553329f571a7bb519c1d85d2dd61e79c5c0c7b57576a2ba47a55c72db36
-✅  [8]Nincy  |10:09:51|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8908ff5176b8a78f4e863db028311b8a27cfc5faea755c98ee31c9d253c00439
-✅  [8]Nincy  |10:10:04|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf8c43999246079b50aa3de97b3f027a3c50548a4abb64f2f4e7280fa47bbc5a4
-✅  [8]Nincy  |10:10:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2d8daba369379d482fbacf56151866fd8b9463abfd67fee429c71bd84278af4a
-✅  [8]Nincy  |10:10:26|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x968e0a6abfe933d051af6a26b58ac766bca65c9bb89bbc55228825bb981d1c7f
-✅  [8]Nincy  |10:10:36|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf9effe7e29123d0aaadb15ac28cf32f88ff055a8e3f65051acdd256fd416682d
-✅  [8]Nincy  |10:10:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd7afb79d8e2ba45e2082bcf0ff2925bc3009a28bd3ef8376b9e0dcfb9b8de390
-✅  [8]Nincy  |10:11:03|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x54f15fa4006f58c910e6960f1a56b85eecd8411a9a487f685032a9b59f1965bf
-✅  [8]Nincy  |10:11:12|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6d62f9249e57be016b903213c98c35287fa052cb89c6944114fd3ae6dd87f51e
-✅  [8]Nincy  |10:11:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc891ed426659b15816c367083b5d16cd50ed0bf25bfb02f425871f3ff66b7625
-✅  [8]Nincy  |10:11:51|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb334197dd4aa76e67fc44b50374ee9d9a5d6b73e6ff2aacd79f91dea95bdd457
-✅  [8]Nincy  |10:12:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9665d317af61551a7acf1df98916604a80a00e99832337c488c226fa4c46e93c
-✅  [8]Nincy  |10:12:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9a6610641e50a8785d0ffe67bca9ebe88aa1cad0c79fb44628c4395b5a9a2aa4
-✅  [8]Nincy  |10:12:25|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9e9cb854c6a2904b9b65e3ce8bfd8a3f9e833b4d452b1a4fff349ae8319501ee
-✅  [8]Nincy  |10:12:38|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0f187327721ce493ffe9a077e5c552754cab42bde0744a90396e5a67d5f93931
-✅  [8]Nincy  |10:12:52|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0176285090298b544d236f777aa26ea058fe55c30cb9ac7bb8870196fcc1d72c
-✅  [8]Nincy  |10:13:05|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf8ebe82ddd3122978f671e5564a2ac200c209bb51e9daca2ef5fb7cd9b851f27
-✅  [8]Nincy  |10:13:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x64e793885ead706d8de20db610a84676918733253399e6d38c32713c0c1e0b2e
-✅  [8]Nincy  |10:13:28|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xca69cab41e29b077b2df5dab43625883a4e7dfcbf47d0e7766ffba5d9fa24d62
-✅  [8]Nincy  |10:13:38|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x70287da231e292ac5c916d04ce83533e4faf58c3389e83714ad1af72748dd06e
-✅  [8]Nincy  |10:13:51|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb055e7a0630d62bfaa2388652df4e2505706ee8fca32a1ebefd9bbce76dc6c49
-✅  [8]Nincy  |10:14:01|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa2e9e7fc4c93e5f7a07bd4261625f11c85f5c8fc5924008a70ca428d95d08a95
-✅  [8]Nincy  |10:14:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xabaa0f82416e186ce8759f48d1aeb4110bec1bec891b4c5f395fd75b05713c76
-✅  [8]Nincy  |10:14:25|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0ee1bcf79930354ad63fcbe0cf938c962add59bccf6885f692d39197393d71da
-⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅  [9]Nikia  |10:14:40|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x12ec2d4527d74106346fefc7c586fadfbf1559f2f6e509e8b78ddadb2e11db91
-✅  [9]Nikia  |10:14:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1e0b75d7281f4f9f668084781a3490c907958ee3c3575374c644264385cd87e8
-✅  [9]Nikia  |10:15:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe9c87c4d27960e99225a94890f58cc7d4d8645dbcb8cb60e9045434be5ea2d3f
-✅  [9]Nikia  |10:15:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb193dbccf32c80955d0f1c2c2addab9f921ae002d1f36320b700adfb28a71c62
-✅  [9]Nikia  |10:15:26|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc78f27db2b881905c3fef7c5920cb195c59e4dd9399a7ff593819c3a9026c7fc
-✅  [9]Nikia  |10:15:40|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5dc38d30a22f8d954c3941e7f56536a5b607885e00ccdb9260e7e720cd4c6731
-✅  [9]Nikia  |10:15:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2a1c7f4840740621ffbd7a61f6ce1dc6cc6665870ec6cac9ef242e5f6d11d5a2
-✅  [9]Nikia  |10:16:03|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbbff76cb90d72933aabddac83b271e5fb3c84b23b0884ac9d16f97ccc88944e4
-✅  [9]Nikia  |10:16:28|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x84063139d4b7075c28b8d0c99b01903a876f70ba55957641fae009bd855dded3
-✅  [9]Nikia  |10:16:38|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xde5ca59cc589297d7be5ae8f475c00e728f7a2808a114602fb803a524590f320
-✅  [9]Nikia  |10:16:51|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xac8be2ba12cf6fe78e6bd3f3c9e8d39a127f809c3f4effe1d1567ccfd3935865
-✅  [9]Nikia  |10:17:01|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9075855ce9e4840abb57ef765c7c4f35f34cbb61380ef8b8a08629167240afea
-✅  [9]Nikia  |10:17:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x80dd7364b69ce62e7765b82ec744982743253d692d4a6b53a872bc94e1bf5e20
-✅  [9]Nikia  |10:17:24|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3358d7fcd9b8262a595e569f74d3db3030ea38eb04235faaef70972b6ad567b5
-✅  [9]Nikia  |10:17:38|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x856b8b08b4cf592358c1262de0bed41500b02f7528fd2fbe5a3f46a5133e7d0c
-✅  [9]Nikia  |10:17:52|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x18c01245eafc4025de100602cb50b7ab3db7364b82ffd38e01383de41e8bfb1f
-✅  [9]Nikia  |10:18:17|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe958eabbbbe86133a3fdd22d5a9a5e81e4eb3ccd11c8847dc260116cbbc59ed5
-✅  [9]Nikia  |10:18:27|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x393d2ffe3edcb78a3a3491fbbf51ea60b8a84b0fa615e778a4e16ce2befd1708
-✅  [9]Nikia  |10:18:40|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x26d0146c6de5027c55ea9e4a13c3cd440c737c90b578fc1d84ce485bb50dadd9
-✅  [9]Nikia  |10:18:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd4be92bf25019b66a0a3fddde70ad6e97d2d255a7d9671e182727677576ebc4f
-✅  [9]Nikia  |10:19:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x681c2b2e8879bb57d59cdbe75a8b5efe95a22800cc8d44b0d9f846160a2fdcdb
-✅  [9]Nikia  |10:19:13|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x825b63e3fbd481fbe30f8bcb66209ad30464a1b2eab92539e263e49e92a36d71
-✅  [9]Nikia  |10:19:26|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x28fc677be1db90bb6066301d385d0742ae7a85879ab049177a87ae454e9a4d51
-✅  [9]Nikia  |10:19:40|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2b3791b01fed5a08a36085b45b9b7b8e8ceb1448ddd1e63099b1f3e73a0a6def
-✅  [9]Nikia  |10:19:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x980bcd6c2a95a584ab31ca9454014ab9b064665ab972101f61de1ddfbffaefac
-✅  [9]Nikia  |10:20:03|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6185db7d3841ead43e3da2c110f23cd40fcd781285a151a468392744ebc93ef7
-✅  [9]Nikia  |10:20:28|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7fdb03a608a3cf2e2d81267d1a0ad5d616b7439d1ae9fdcdabd08d8627e81b74
-✅  [9]Nikia  |10:20:38|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe8258ee2646d690fe3611dbefcab492ec0481ee0914be5b8b4033bb4254e3272
-✅  [9]Nikia  |10:20:51|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9706a0ca3da29a1e068118d85ffdc05ba49735a4dffaf9a2dbe85245747c43bd
-✅  [9]Nikia  |10:21:01|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd9268d24af94bb1426ceb8401c5d0a4f8ddc7fb43313685faa9e472053397b6c
-✅  [9]Nikia  |10:21:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2334d20ce71f32daa0d1b4646bcf2ae7f4042ddb48b6c550c3bbc3bd7080b5f9
-✅  [9]Nikia  |10:21:24|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe0ffb9671d19791515c3dbf369dbcda47021c0273e380ae88ea9a889ef50a466
-✅  [9]Nikia  |10:21:37|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6d3fe36517dcac359c0fb2f1d2cd21988c15d588c1a0629cbefb32382c58ba39
-✅  [9]Nikia  |10:21:51|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9c56595a0ca614fcd747e1afb633916f2986955e2637813ff6ca5061820f88b9
-✅  [9]Nikia  |10:22:04|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1f7ccad3638f2ce9bf3cf6157358b4a2f3c6aea0dab00830147a8c192282e2e8
-✅  [9]Nikia  |10:22:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x94349381156491003b05cf21f43a4b4542709e551440362559043901fa404b79
-✅  [9]Nikia  |10:22:27|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6a1948cb61c9067bc39830dd211f8c3f47f2b8a47085bc59c2d37afe5c263f74
-✅  [9]Nikia  |10:22:37|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8bbc5a4faab7f5f26800c3c37bec7f063f254c4dbe0c0cda23e38edcb4f53840
-✅  [9]Nikia  |10:22:50|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x262df1cca40f7b7b12acd76bc23ef154bb4d5640e0e891fa8585b028d10bee47
-✅  [9]Nikia  |10:23:04|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x71a01053c527b8a72d18d49700707dd5a2ebd49ac37b990f40af9678b58eac58
-✅  [9]Nikia  |10:23:17|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8c9c91311249eb413f18e21ddec384fed15a2e120464f9a3e000ea6cf4d39abc
-✅  [9]Nikia  |10:23:27|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x723bb0f6b1aa64caf43dc1d8e629d71e96386681e475452749a036c850674b8e
-✅  [9]Nikia  |10:24:00|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd986c4d8092702f1ef2533a8ca076b0bdc984f3388e7cb47c24e9f9b7fc83cf5
-✅  [9]Nikia  |10:24:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0c69a0bda2526306f95cfc54afcf5dbe80d41f266e37b3e3fb2f5c52137e8d66
-✅  [9]Nikia  |10:24:27|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xeb162bb0f12828a6cd24f2f0636000b27228a1eb9c9f62e0920ae1ffd6df5b90
-✅  [9]Nikia  |10:24:37|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3edd980fac2ddfe72e0bbd6ec3cea7ff631c2beaeb7cd2e75f6c11cfc46f08cb
-✅  [9]Nikia  |10:24:50|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9e10fa0e6789f5b4e268cd370b1e1a2fe45569ffb078028d3ad3fb00fb685a99
-✅  [9]Nikia  |10:25:12|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6b23dca606daba331fa2f2a712f2172f9ffea40918b4d6e2073ae3382bd92164
-✅  [9]Nikia  |10:25:25|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xce4c3f51e2ea658c8fb150fde7ef566bd6bcbaf2836f57308307faabe51f4bd8
-✅  [9]Nikia  |10:25:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa4148fbf41d8317f55abcbb596572219ddc98c705a9ad897a20ef61275a84bd9
-⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
-✅ [10]Diona  |10:25:51|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x72cc80954f532c76198a5dfb8362bae1540a8a2a658ce05a02db211a7c4a04f9
-✅ [10]Diona  |10:26:01|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbaf89ed1a4392691f3a0e04ac842b3b61208c2abaadc0addd32e2157263c8b60
-✅ [10]Diona  |10:26:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5a6c6cd78e3c8d130c1243619355e8cc1596b3f673d772f6f0ce7a5b8f444b8b
-✅ [10]Diona  |10:26:40|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xca6d10d100431cb79f925490a5a7ec0ede3da2b45358ac22562e9b5c684c2b10
-✅ [10]Diona  |10:26:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x50b68d7cd93bfe31cc767703a17cf808b7f6eb9d482e52f93fc18f5dbd13e1af
-✅ [10]Diona  |10:27:03|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x11b859dce8a61fa4519d93b10beb0f513b256df0644a5ba27403c337f3c8f488
-✅ [10]Diona  |10:27:12|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x37e46838221191beb10556cf239ecddc4ced96b9dad1e9f487e908074cd6e386
-✅ [10]Diona  |10:27:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xeb5c9c8910e07699d9194971d970cf446c5789d7a6b4994e854f3c83b7483dce
-✅ [10]Diona  |10:27:39|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3df6c9704223c3e75ea758d1544d93e1f7fd1443b077fc8e5f738c719a521192
-✅ [10]Diona  |10:27:49|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa03b4e8d00f42b9eb34026f61255724c49fbfdd7abfa833d8f40e38f6da9fda5
-✅ [10]Diona  |10:28:02|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xccc8788cab74bb1344609f5f99d2882b034f69b52b86fc66d182cda416d9627c
-✅ [10]Diona  |10:28:12|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1900e1e7eacb0604f55cbd4cced84ac020ba98d86d128b21cc42d87427bc8e1e
-✅ [10]Diona  |10:28:25|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfd7a5ba2d0c3bc8a3669d5a6da66e6fb3b7cae8194cee744cba9a24d4a80ef7c
-✅ [10]Diona  |10:28:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x46138289ed50417a7c8c4fa2b411c6b1d77fbf2190d11ac1479149323ea52c9b
-✅ [10]Diona  |10:28:48|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x69e87f1356ad3dfdd6de91f588efc6ab762de2211d02290919a48f5717c3a161
-✅ [10]Diona  |10:29:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf0919fe2f6f14cd52d3bde6131d73f6de73687a11b7c4ba3ffcd4699a9ee3382
-✅ [10]Diona  |10:29:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x43a97bce604961e30e99a97af5ccabd4f8f3c1c09ff4e07044ffe862f51ae738
-✅ [10]Diona  |10:29:25|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xae6618724e888ebd11bb7ca905218d35ac3563d1fc349d18233d20b91a2259b3
-✅ [10]Diona  |10:29:38|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcb5182dedf63e1b619d8006ff2c4f4a5e29aabad22b70ab465625a9811c4cdc4
-✅ [10]Diona  |10:29:48|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x456aa2e20dcf8b59c8b17e9ca90cb1e342f6130f7de8ca72cb5ec485c78cf53f
-✅ [10]Diona  |10:30:01|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x690ae2cf29bd9f89f16fa216fc95f8ed8ff26d7956ee5b0ab7f3e0859713e164
-✅ [10]Diona  |10:30:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1d2a56603b775b547bc8b72b1e88fd79b923a4f5ba19b6490b2177fd5d2fc4e9
-✅ [10]Diona  |10:30:24|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdec9fcea6b1c8fff7671223bf1da698c93be3bb1511bd9f877906d533a1dc9e3
-✅ [10]Diona  |10:30:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdf7885d53fe7b1cca686a3dcdbfcc6d6c168224950b68fabc65f4aada7a56794
-✅ [10]Diona  |10:30:52|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xffba61254eefb217773f92c7546512eae7cf38af99d4de8f3dda561d265015d6
-✅ [10]Diona  |10:31:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x94ce8730c77a98db1c0829ce827cf10d8b98b216d127e574f66a3013b360601d
-✅ [10]Diona  |10:31:14|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe93e2728f4f273f86f357235abf907412726a05b75efabb78dfaa0bfa9da7498
-✅ [10]Diona  |10:31:25|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd62794554d13288a28f8515981df51a0f38f522704dd853234d6ef6f74b8bb5d
-✅ [10]Diona  |10:31:37|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x34e2d806762c6c24b4a3e8e6993fa229b4e63580ee9407648b260e1259806f5e
-✅ [10]Diona  |10:31:51|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0f747c26403331e2039e52bb4b4d7ad6b0e547665b74a357b1a8403237e48ebf
-✅ [10]Diona  |10:32:04|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7721f73a6e95e241f6e0fc163499bcb72f1b551e34404c8a10beeae94e551fb2
-✅ [10]Diona  |10:32:14|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdeaf3646819a8cf86b5d2b88fea1a63e7c01aad96902e0b93ca6aad89468ea90
-✅ [10]Diona  |10:32:28|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8e7404de9bbf136b1775945d811ae612c597607e185405d1070c40ce2fb21308
-✅ [10]Diona  |10:32:50|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf13c2c7385dfe14117077f80793448680d9f083fffe0c986e8ab36d95013ce13
-✅ [10]Diona  |10:33:03|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x23603918eabbfb9efcd771bb9d669d90284020c1b56533c2212337078c9a626d
-✅ [10]Diona  |10:33:12|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x47737e159b7368b4ac7f09c2f88447860cf8940020f33f8841a31854661a6930
-✅ [10]Diona  |10:33:25|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0da296ee822b4f5e8a7a9165358f615a49cf70812a3d328b8ba5ff9b56eeb131
-✅ [10]Diona  |10:33:40|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfcf20e6150a593254854cf171afded66d0961afd9c135744e8ce1629986e57e1
-✅ [10]Diona  |10:33:49|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6ade1ac90533bd5439c178ce15fe7dc22a5e1d516f9865cafd79da48303a8557
-✅ [10]Diona  |10:34:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdce3a27b69a85eb0eb5974ffaccf1eb39c213d3aff6a2a1f38184d2249449c2e
-✅ [10]Diona  |10:34:15|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfd511a4229833b0445cd85d50a0ee4fe0ffa5939004b7fb65015061bfb62e401
-✅ [10]Diona  |10:34:26|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb15f8dca8716d4165944b1baffed524198e447548d418b6707f9ec5a2eb1558b
-✅ [10]Diona  |10:34:38|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7d3930f852ee45e33b58c707601305a5c9cdecadaa0a7fb26a8ca872a7f2a91f
-✅ [10]Diona  |10:34:48|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x43901f978ff709020e8d2c80fc81642a9dc2506ec96eac96e1b3e5f5686eb8db
-✅ [10]Diona  |10:35:01|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x305b91e7fa034060b1e9f4d87ffc8ed51df050ed4560fb258b2b4bf53ff718d4
-✅ [10]Diona  |10:35:15|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1c84883961cfa43fe18a8bb5fbe75cc829b7f3f7f705740f18d2c0aa13f4da19
-✅ [10]Diona  |10:35:24|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x03614cb7ad0fce7371ba5e423bc7e65c58ac8c5a164f3e9f0be80e7af144602f
-✅ [10]Diona  |10:35:39|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3bd31cce3081831515d18f96822e2e0777ecedfdf66c629f21a99464fb6d904c
-✅ [10]Diona  |10:35:52|06-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3896c1e0b8a69f9184af7ace6604b21abf11c33b33aff61b5915ff45768bd81a
-✅ [10]Diona  |10:36:02|06-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8894ceedfc01e7ad152155bce3f7b6f8a2385b1a4ec4c70c0a55d79ca9721107
+✅ [10]Diona  |09:10:03|07-06-2026| Faucet USDT Confirmed: https://eth-sepolia.blockscout.com/tx/0x1c21742056c62eefc91f62c39b43d61afc57a151b57dd2543ff56fe8a0384350
+✅ [10]Diona  |09:10:13|07-06-2026| Faucet USDC Confirmed: https://eth-sepolia.blockscout.com/tx/0x99a83d503699311af476ea2e27acdcf0c03f33ded58595069f7bfac422f98cfc
+✅ [10]Diona  |09:10:27|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7aa628ffac23a8f7cf31c707b0b0236d1f4b965f5b8cf8c44a106c177297ec5a
+✅ [10]Diona  |09:10:37|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcdb247ad64f444021e69618fcd1eecdbe2f685c83b6fc8a2248b0fc98686881b
+✅ [10]Diona  |09:10:51|07-06-2026| Stake USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2e87521412b838063f9b11884e00eeb7e8830d1f9d9aacf8f1d452d4ae35d84b
+✅ [10]Diona  |09:11:01|07-06-2026| Stake USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9949a705b39f2b5fd99db3521c9225c7083686656c80a9739aee31599acf2ef1
+🚀 [10]Diona  |09:11:02|07-06-2026| Transfer for 0x84ff6d2591a320974fe098b89251588cba293ee7
+✅ [10]Diona  |09:11:15|07-06-2026| Transfer USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9021e67a2d6fdadf45d2ecc968b999ebdf780cbc72da915c61966ed31d7720e4
+✅ [10]Diona  |09:11:25|07-06-2026| Transfer USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x45c9dc7a07ec46d86abba2476206313776d3241d25cb05f2c7c5fbcbc4bca8aa
 ⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
 ❌ List Error Account : 1
+🧾 Executing your selected menu: Mint USDT+/USDC+
+
+❌  [1]Rinda  |09:11:29|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502ebb79e5683016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a08f1a8dae264eb19f41069863e008e2f704bcada0fea78daf1291d1ca6420d3a2a04eea9c09a1435f7c23c68e81fa5d8588e731c96d43738cad7edcda49f03b9a1f", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1181351387159528, overshot 62910324045088" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:30|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502ebb79e5683016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a08f1a8dae264eb19f41069863e008e2f704bcada0fea78daf1291d1ca6420d3a2a04eea9c09a1435f7c23c68e81fa5d8588e731c96d43738cad7edcda49f03b9a1f", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1181351387159528, overshot 62910324045088" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:31|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502ebb79e5683016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a08f1a8dae264eb19f41069863e008e2f704bcada0fea78daf1291d1ca6420d3a2a04eea9c09a1435f7c23c68e81fa5d8588e731c96d43738cad7edcda49f03b9a1f", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1181351387159528, overshot 62910324045088" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:32|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502ebb79e5683016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a08f1a8dae264eb19f41069863e008e2f704bcada0fea78daf1291d1ca6420d3a2a04eea9c09a1435f7c23c68e81fa5d8588e731c96d43738cad7edcda49f03b9a1f", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1181351387159528, overshot 62910324045088" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:33|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502ebb79e5683016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a08f1a8dae264eb19f41069863e008e2f704bcada0fea78daf1291d1ca6420d3a2a04eea9c09a1435f7c23c68e81fa5d8588e731c96d43738cad7edcda49f03b9a1f", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1181351387159528, overshot 62910324045088" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:34|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502ebb79e5683016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a08f1a8dae264eb19f41069863e008e2f704bcada0fea78daf1291d1ca6420d3a2a04eea9c09a1435f7c23c68e81fa5d8588e731c96d43738cad7edcda49f03b9a1f", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1181351387159528, overshot 62910324045088" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:35|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502ebb79e5683016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a08f1a8dae264eb19f41069863e008e2f704bcada0fea78daf1291d1ca6420d3a2a04eea9c09a1435f7c23c68e81fa5d8588e731c96d43738cad7edcda49f03b9a1f", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1181351387159528, overshot 62910324045088" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:36|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502ebb79e5683016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a08f1a8dae264eb19f41069863e008e2f704bcada0fea78daf1291d1ca6420d3a2a04eea9c09a1435f7c23c68e81fa5d8588e731c96d43738cad7edcda49f03b9a1f", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1181351387159528, overshot 62910324045088" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:37|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502ebb79e5683016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a08f1a8dae264eb19f41069863e008e2f704bcada0fea78daf1291d1ca6420d3a2a04eea9c09a1435f7c23c68e81fa5d8588e731c96d43738cad7edcda49f03b9a1f", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1181351387159528, overshot 62910324045088" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:38|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502f2523dba83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0d9a1cfd39227a0cf85b3ec229c45ede3cb961a77c2b866fe2d985b44871370c3a01ade56ebbc62cd9af2f636c6f11adbf4d548a398b16ebbfeb45decd4f5ccf86d", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1191785328718296, overshot 73344265603856" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:39|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502f2523dba83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0d9a1cfd39227a0cf85b3ec229c45ede3cb961a77c2b866fe2d985b44871370c3a01ade56ebbc62cd9af2f636c6f11adbf4d548a398b16ebbfeb45decd4f5ccf86d", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1191785328718296, overshot 73344265603856" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:40|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502f2523dba83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0d9a1cfd39227a0cf85b3ec229c45ede3cb961a77c2b866fe2d985b44871370c3a01ade56ebbc62cd9af2f636c6f11adbf4d548a398b16ebbfeb45decd4f5ccf86d", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1191785328718296, overshot 73344265603856" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:40|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502f2523dba83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0d9a1cfd39227a0cf85b3ec229c45ede3cb961a77c2b866fe2d985b44871370c3a01ade56ebbc62cd9af2f636c6f11adbf4d548a398b16ebbfeb45decd4f5ccf86d", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1191785328718296, overshot 73344265603856" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:41|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502f2523dba83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0d9a1cfd39227a0cf85b3ec229c45ede3cb961a77c2b866fe2d985b44871370c3a01ade56ebbc62cd9af2f636c6f11adbf4d548a398b16ebbfeb45decd4f5ccf86d", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1191785328718296, overshot 73344265603856" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:42|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502f2523dba83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0d9a1cfd39227a0cf85b3ec229c45ede3cb961a77c2b866fe2d985b44871370c3a01ade56ebbc62cd9af2f636c6f11adbf4d548a398b16ebbfeb45decd4f5ccf86d", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1191785328718296, overshot 73344265603856" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:43|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502f2523dba83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0d9a1cfd39227a0cf85b3ec229c45ede3cb961a77c2b866fe2d985b44871370c3a01ade56ebbc62cd9af2f636c6f11adbf4d548a398b16ebbfeb45decd4f5ccf86d", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1191785328718296, overshot 73344265603856" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:44|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502f2523dba83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0d9a1cfd39227a0cf85b3ec229c45ede3cb961a77c2b866fe2d985b44871370c3a01ade56ebbc62cd9af2f636c6f11adbf4d548a398b16ebbfeb45decd4f5ccf86d", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1191785328718296, overshot 73344265603856" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:45|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502f2523dba83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0d9a1cfd39227a0cf85b3ec229c45ede3cb961a77c2b866fe2d985b44871370c3a01ade56ebbc62cd9af2f636c6f11adbf4d548a398b16ebbfeb45decd4f5ccf86d", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1191785328718296, overshot 73344265603856" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:46|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502f2523dba83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0d9a1cfd39227a0cf85b3ec229c45ede3cb961a77c2b866fe2d985b44871370c3a01ade56ebbc62cd9af2f636c6f11adbf4d548a398b16ebbfeb45decd4f5ccf86d", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1191785328718296, overshot 73344265603856" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:47|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502f2523dba83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0d9a1cfd39227a0cf85b3ec229c45ede3cb961a77c2b866fe2d985b44871370c3a01ade56ebbc62cd9af2f636c6f11adbf4d548a398b16ebbfeb45decd4f5ccf86d", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1191785328718296, overshot 73344265603856" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:48|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502f2523dba83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0d9a1cfd39227a0cf85b3ec229c45ede3cb961a77c2b866fe2d985b44871370c3a01ade56ebbc62cd9af2f636c6f11adbf4d548a398b16ebbfeb45decd4f5ccf86d", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1191785328718296, overshot 73344265603856" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:49|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502e04c56ac83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a009761d96e374a14fe3b10a278820cd094a0bec74ba6e126bd1b8c4cbadc0730aa01806aa44d7a81a1b993754ac482f797d0019bfb5388da04e90ef36fe9b9ee7f5", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1163309908430800, overshot 44868845316360" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:50|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502e04c56ac83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a009761d96e374a14fe3b10a278820cd094a0bec74ba6e126bd1b8c4cbadc0730aa01806aa44d7a81a1b993754ac482f797d0019bfb5388da04e90ef36fe9b9ee7f5", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1163309908430800, overshot 44868845316360" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:51|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502e04c56ac83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a009761d96e374a14fe3b10a278820cd094a0bec74ba6e126bd1b8c4cbadc0730aa01806aa44d7a81a1b993754ac482f797d0019bfb5388da04e90ef36fe9b9ee7f5", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1163309908430800, overshot 44868845316360" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [1]Rinda  |09:11:52|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782011a830f42408502e04c56ac83016fdc94e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000b0e8b5094a70a1ffa2bd9ebc00a313a8ccfaccee000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a009761d96e374a14fe3b10a278820cd094a0bec74ba6e126bd1b8c4cbadc0730aa01806aa44d7a81a1b993754ac482f797d0019bfb5388da04e90ef36fe9b9ee7f5", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 1118441063114440, tx cost 1163309908430800, overshot 44868845316360" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
+✅  [2]Kinsa  |09:12:03|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5dee2147cb992b1e919c771e2c408feea393331e1fa81ce968dcb3e1b452a3f1
+✅  [2]Kinsa  |09:12:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x61ce2550c5974068fb9d77b193c5758103728b4c07c3cf29b418e94a72221fd6
+✅  [2]Kinsa  |09:13:03|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4b6bc786fa29d8b1165b35982b7f9d76645ace88bb9a1747f0b80c7d92c47be4
+✅  [2]Kinsa  |09:13:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6b27dc6b60c3a21c0de98d1ac842a7fcaaf1f12b51d210e9275b940adaa8bc8e
+✅  [2]Kinsa  |09:13:27|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd2754ebd869cb949f0e52d34555c41a5eb58023a9a9f6dd0afeb515cb93731e5
+❌  [2]Kinsa  |09:13:29|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502b212e0ec83016ff494e815718d44694ec4637cb775c468d87f6e15b53880b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe274400000000000000000000000094a9d9ac8a22534e3faca9f4e7f2e2cf85d5e4c8000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a0ef7c4e273db29406aa68acd84be2901ed52c2a0560df6282bfaf24a44e07f166a04b925dc8c9c500ddd9de2d565cf21316072d5e3a6a05710a6eb543b8401fee33", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1090555722380528, overshot 411444397762982" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:30|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502b212e0ec83016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a063534051e6b89b7ed9dac6ca01886a2a5e82de366dba50fec85abd992db92f97a04250ca31bb16ea69b3f36c348b28c0f1b8c380ccf2c1cd26d4e07a20e9688d08", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1090555722380528, overshot 411444397762982" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:31|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502b212e0ec83016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a063534051e6b89b7ed9dac6ca01886a2a5e82de366dba50fec85abd992db92f97a04250ca31bb16ea69b3f36c348b28c0f1b8c380ccf2c1cd26d4e07a20e9688d08", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1090555722380528, overshot 411444397762982" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:32|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502b212e0ec83016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a063534051e6b89b7ed9dac6ca01886a2a5e82de366dba50fec85abd992db92f97a04250ca31bb16ea69b3f36c348b28c0f1b8c380ccf2c1cd26d4e07a20e9688d08", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1090555722380528, overshot 411444397762982" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:33|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502b212e0ec83016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a063534051e6b89b7ed9dac6ca01886a2a5e82de366dba50fec85abd992db92f97a04250ca31bb16ea69b3f36c348b28c0f1b8c380ccf2c1cd26d4e07a20e9688d08", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1090555722380528, overshot 411444397762982" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:34|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502b212e0ec83016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a063534051e6b89b7ed9dac6ca01886a2a5e82de366dba50fec85abd992db92f97a04250ca31bb16ea69b3f36c348b28c0f1b8c380ccf2c1cd26d4e07a20e9688d08", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1090555722380528, overshot 411444397762982" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:35|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502b212e0ec83016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a063534051e6b89b7ed9dac6ca01886a2a5e82de366dba50fec85abd992db92f97a04250ca31bb16ea69b3f36c348b28c0f1b8c380ccf2c1cd26d4e07a20e9688d08", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1090555722380528, overshot 411444397762982" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:35|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502b212e0ec83016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a063534051e6b89b7ed9dac6ca01886a2a5e82de366dba50fec85abd992db92f97a04250ca31bb16ea69b3f36c348b28c0f1b8c380ccf2c1cd26d4e07a20e9688d08", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1090555722380528, overshot 411444397762982" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:36|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502b212e0ec83016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a063534051e6b89b7ed9dac6ca01886a2a5e82de366dba50fec85abd992db92f97a04250ca31bb16ea69b3f36c348b28c0f1b8c380ccf2c1cd26d4e07a20e9688d08", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1090555722380528, overshot 411444397762982" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:37|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502ac56d00883016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a0291499a2ac85e28d7ce3834b87ffad04686d8cf5fcbaa169941da32b3740e6c0a06ee0bddfb67682f954a19da8ea6d40010df333ca574baa8d20117eba8710319e", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1081493014822816, overshot 402381690205270" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:38|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502ac56d00883016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a0291499a2ac85e28d7ce3834b87ffad04686d8cf5fcbaa169941da32b3740e6c0a06ee0bddfb67682f954a19da8ea6d40010df333ca574baa8d20117eba8710319e", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1081493014822816, overshot 402381690205270" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:39|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502ac56d00883016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a0291499a2ac85e28d7ce3834b87ffad04686d8cf5fcbaa169941da32b3740e6c0a06ee0bddfb67682f954a19da8ea6d40010df333ca574baa8d20117eba8710319e", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1081493014822816, overshot 402381690205270" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:40|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502ac56d00883016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a0291499a2ac85e28d7ce3834b87ffad04686d8cf5fcbaa169941da32b3740e6c0a06ee0bddfb67682f954a19da8ea6d40010df333ca574baa8d20117eba8710319e", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1081493014822816, overshot 402381690205270" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:41|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502ac56d00883016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a0291499a2ac85e28d7ce3834b87ffad04686d8cf5fcbaa169941da32b3740e6c0a06ee0bddfb67682f954a19da8ea6d40010df333ca574baa8d20117eba8710319e", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1081493014822816, overshot 402381690205270" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:42|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502ac56d00883016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a0291499a2ac85e28d7ce3834b87ffad04686d8cf5fcbaa169941da32b3740e6c0a06ee0bddfb67682f954a19da8ea6d40010df333ca574baa8d20117eba8710319e", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1081493014822816, overshot 402381690205270" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:43|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502ac56d00883016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a0291499a2ac85e28d7ce3834b87ffad04686d8cf5fcbaa169941da32b3740e6c0a06ee0bddfb67682f954a19da8ea6d40010df333ca574baa8d20117eba8710319e", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1081493014822816, overshot 402381690205270" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:43|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502ac56d00883016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a0291499a2ac85e28d7ce3834b87ffad04686d8cf5fcbaa169941da32b3740e6c0a06ee0bddfb67682f954a19da8ea6d40010df333ca574baa8d20117eba8710319e", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1081493014822816, overshot 402381690205270" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:44|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502ac56d00883016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a0291499a2ac85e28d7ce3834b87ffad04686d8cf5fcbaa169941da32b3740e6c0a06ee0bddfb67682f954a19da8ea6d40010df333ca574baa8d20117eba8710319e", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1081493014822816, overshot 402381690205270" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:45|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502ac56d00883016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a0291499a2ac85e28d7ce3834b87ffad04686d8cf5fcbaa169941da32b3740e6c0a06ee0bddfb67682f954a19da8ea6d40010df333ca574baa8d20117eba8710319e", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1081493014822816, overshot 402381690205270" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:46|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502ac56d00883016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a0291499a2ac85e28d7ce3834b87ffad04686d8cf5fcbaa169941da32b3740e6c0a06ee0bddfb67682f954a19da8ea6d40010df333ca574baa8d20117eba8710319e", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1081493014822816, overshot 402381690205270" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:47|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502ac56d00883016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c001a0291499a2ac85e28d7ce3834b87ffad04686d8cf5fcbaa169941da32b3740e6c0a06ee0bddfb67682f954a19da8ea6d40010df333ca574baa8d20117eba8710319e", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1081493014822816, overshot 402381690205270" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:48|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502d7378a6083016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0749c7823d9b1d3f7aeb9ac40f1aac747b23ff9e032fdd4983813704d139c640ba0558f84feec7a72a9798089e5d7e60710a991d4f3bbeaf5aaeb2de7ebadeb52e2", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1149254870467456, overshot 470143545849910" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+❌  [2]Kinsa  |09:13:49|07-06-2026| Unexpected Error: insufficient funds for intrinsic transaction cost (transaction="0x02f9011583aa36a782012e830f42408502d7378a6083016ff494e20534a32f9162488a90026f268a74fbe28d272d80b8a42ef6f1ab000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000ba545b0de11d5de1715c04e78ec4324ca7fe2744000000000000000000000000aa8e23fb1079ea71e0a56f48a2aa51851d8433d0000000000000000000000000000000000000000000000000000000000bebc20000000000000000000000000000000000000000000000000ad78ebc5ac6200000c080a0749c7823d9b1d3f7aeb9ac40f1aac747b23ff9e032fdd4983813704d139c640ba0558f84feec7a72a9798089e5d7e60710a991d4f3bbeaf5aaeb2de7ebadeb52e2", info={ "error": { "code": -32000, "message": "insufficient funds for gas * price + value: balance 679111324617546, tx cost 1149254870467456, overshot 470143545849910" } }, code=INSUFFICIENT_FUNDS, version=6.16.0)
+⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
+✅  [3]Miura  |09:14:01|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe73e0684b47afc2dc709a3231b0e6694deabc242159223923a88ed345720f270
+✅  [3]Miura  |09:14:15|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf457de27051d130ec41115044f9c22aa0595c9b4569887baac26dc0da93d7638
+✅  [3]Miura  |09:14:36|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc35c2db3d9b5bef8529463c85066d8a979c949f03f5416ba92cea5be9a61634e
+✅  [3]Miura  |09:14:51|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9fc45c935d962eb7ada54be93175bbe946bd77e89000d361b98f41acac7e0818
+✅  [3]Miura  |09:15:04|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf79c17f8797199e4398ebdab8850719284c1ee0919b944d85e7e1eb7218f84fd
+✅  [3]Miura  |09:15:14|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe44f162cac815d7c86c69f5ec1c214aaa0d47570617bd78c59a17c36a0a34e96
+✅  [3]Miura  |09:15:28|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0ed6844a46bb51040f3cf0a219494f13b6322a06ede06bcecb0de6e228ed536e
+✅  [3]Miura  |09:15:38|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa202cf7aed5982b90c749d8d0deceaf532b021f3fccb6ee4fab0868a56765547
+✅  [3]Miura  |09:15:51|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x96b059ff4f0024341e788873f8e87f30036063479d85fbfc77a36015069fb799
+✅  [3]Miura  |09:16:02|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4236adf0554f82b9a58f7d33db8b9f32b0e848d2f88870ec78ff288d7999abd1
+✅  [3]Miura  |09:16:15|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd219cff261f4d0bdf77769cfce7e4ed6b9136223d6e320106111f9660f6493cb
+✅  [3]Miura  |09:16:25|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x03c1df6066de7a97c79145f3521957be52b50846bd2f3ab1f88bd871ce54e9a8
+✅  [3]Miura  |09:16:38|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x59eab89ec27c00cd65a09925eb6ef125d70c32550258cc1cb59570050ca08d5e
+✅  [3]Miura  |09:16:48|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x46c2f5504c05d35d9c7baf57394a494ca542b13c314fbeb14a4427b38b8e372d
+✅  [3]Miura  |09:17:02|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbde5d48c76e81acde2372ec82455df3eea8aa77f2e21757eb9c4f43c427a7ff3
+✅  [3]Miura  |09:17:12|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x32e5bdda637a3b8a10ee1f60f252ca0db36875c34dae2b780ca62ff1c3912f9f
+✅  [3]Miura  |09:17:25|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x047a054b057bcc4eee702c75d140f37de78068f862a0e0fcc8f1a88702ff9f06
+✅  [3]Miura  |09:17:39|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9411cd7f92fea35f666a8f0ed177584cfeed3c2201a620dd584d828d774870a4
+✅  [3]Miura  |09:17:53|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcdccd7426d80874c594c0eaccffccb8b3811e18d65fe86d65a895c2f1473639f
+✅  [3]Miura  |09:18:03|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xeafa15f2a67bb20157be5ccc9131ba1e7937d388dfb1c12ccc8fd88405b0a5f2
+✅  [3]Miura  |09:18:16|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf7d403eb6b11d5e42ffabd6bb33cc5804d1a6ce5a909f9fb6c9b015cdb4bd3ee
+✅  [3]Miura  |09:18:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9c324a86361297adf658a88d291e25b117e75f160b7d656fea800b8ed09d4186
+✅  [3]Miura  |09:18:40|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x40a2576d602e482f2cf9873403331503b4851681092d32196cc63d22d611a6c9
+✅  [3]Miura  |09:18:50|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x326c3a61d1c62ef415a775a028d7f79731ab28651c45cdac38de37e0ad8d1458
+✅  [3]Miura  |09:19:03|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf83ea5d66ef42e8d1a8a9ad986dd06510c12146d38d098dfba6ac62a0bdf4e85
+✅  [3]Miura  |09:19:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x04bc36fc43fb23be39db3ec84a3593ed9363cb9478c149528edc15a9f83ca6d6
+✅  [3]Miura  |09:19:27|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5a63d83d4f335e5b9421b71f52d6b6dcc21f355b45ffe18338ed626f52890598
+✅  [3]Miura  |09:19:37|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3038a90e7b4ac3a605b04539e82419e29ff64c68ce07bdf618707db4ebd0a719
+✅  [3]Miura  |09:19:50|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbc5af5790a36eb5383984c98d5e87a87770782c1d3e99b72308f08c65e158095
+✅  [3]Miura  |09:20:00|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4a46bf8431e8de149a6b6a19b3ce781f4648147ff757493fe1c0af7f44cb67a8
+✅  [3]Miura  |09:20:14|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x520d05962c8067fd2cbb349b7eda03d22c4bf502e286b06fc0ae327db1e54697
+✅  [3]Miura  |09:20:24|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6e732d707bdd935a31e9d31e2cc5ed703a5657a5b9e3a4182af50beda11c2b7b
+✅  [3]Miura  |09:20:37|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x154d48f85b2320f5a94105fd85b2ed982da9ff8294370b0bf39516625623ab0a
+✅  [3]Miura  |09:20:51|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x28998372c580167f7bd42724e4e20f1ec3c3c295119ba4028b39d423a533c095
+✅  [3]Miura  |09:21:01|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x91bc8b090b13618e7b2894656cf5a3c7ff764942e9766aa8751f4041433091a1
+✅  [3]Miura  |09:21:15|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6be411ff42144e0a8b4f3bca4b76c8951a9aa6a1f012b8c5878bc33d7339ad51
+✅  [3]Miura  |09:21:28|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xeb33981b44bad47d4d03fe96cb709d1340b118d3aad0aec8e5027c6383c3b062
+✅  [3]Miura  |09:21:38|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb9f6f7369cf706a6e3bef0c761327d8345b33efe4ec01d9a6ae7e71d18a27962
+✅  [3]Miura  |09:21:51|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0c4b442b7b830fab0d25ba3a8928e05b8763712ab60bf2eb14dd56b3e74d2d22
+✅  [3]Miura  |09:22:02|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe42fcb852c3490225a70906f5eb5fdb26643de3f3e6648744fcd00f32a6bc983
+✅  [3]Miura  |09:22:15|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf7f4d527b224479c5c8fd9de2198116b1bcc4c4cc2b82c6514928fc1520864ad
+✅  [3]Miura  |09:22:25|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1fead32b6a66cd956b2773cc968e93d516f0ae3592108e719ad69d73c57b8b3e
+✅  [3]Miura  |09:22:38|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc11ea65bdee3bf980665a713d63fabb8344dde5b996526f52815c880c5db33d3
+✅  [3]Miura  |09:22:48|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcee50d5b313b57eca8796530fbd1c99b007a1512850b66955246de5fbe5f830a
+✅  [3]Miura  |09:23:02|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4daf457d0f2d6231096fc7e7df325859db6777485738b98d08e2c30ac6e3fc86
+✅  [3]Miura  |09:23:16|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x92a9130629e8325a5db0399c7ca4ba2dcc3643013a99061f116282af7cc4932b
+✅  [3]Miura  |09:23:25|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x15d5f726fccdc8cf77931f227b0ecf232535601778082a89c5d9d24e1510d42a
+✅  [3]Miura  |09:23:39|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6b51751c34e61eb3be20c1662a1d677234a9d6adbc14a1a0c54ea3216de1eb99
+✅  [3]Miura  |09:23:49|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb11a76768a708c1b7adaed1ad204dc4c2a26e438aa42e4bb8dd441e9b0d0cdb5
+✅  [3]Miura  |09:24:03|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcb14107722ddef22837db65346aa07966be279831ebdba5c24f73833a867114b
+⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
+✅  [4]Luana  |09:24:15|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc739d02a9d434152a89b6a1cf7a4a5d49d1e7e8f83330ad990c2c54f75c23199
+✅  [4]Luana  |09:24:25|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x99b7b1fed607a5c8accf2cb1a86ed22b73e763bca2426d78e47f924594e8820e
+✅  [4]Luana  |09:24:38|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x696332a62630cf93901c6dbfdf14e074b788dc6ee28293db122ff59e0aca903f
+✅  [4]Luana  |09:24:49|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x85846c6746f2f9d7f2ccd5c855110fae3aec6fa6ca383a3bac8281973b034e47
+✅  [4]Luana  |09:25:02|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6e2bab2fffe119454813ae757dff47b6a88592dcdfe01d5ceeb21c801059d521
+✅  [4]Luana  |09:25:12|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7c831eb4521dd47eef7a32ed56b4a5b8e93960c0d450cd3fca6e8f841e0028a5
+✅  [4]Luana  |09:25:25|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x490344ec3e0f2e81d11f357ea269d7b1aa7a1c7cae7f6b0a37585cb764bae7bd
+✅  [4]Luana  |09:25:40|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfa04ec8cb9632c27df0d69cb036fba763c76e24452c8d3407ff2e239d0f414c2
+✅  [4]Luana  |09:25:49|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4dceca33f892db3939314a11ae40513d0cc5916cb3c5cd7948dec4926c683e0e
+✅  [4]Luana  |09:26:03|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8dc0615a8c88199a810351c913a7136811703d31dbb3e37ccd71cf1d9f3d5f70
+✅  [4]Luana  |09:26:25|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd5835c9d2da5e2cf95fea37fe13a1a9cdf0bd0b502eec802425aad207bedbf99
+✅  [4]Luana  |09:26:39|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5a69e486592b2c72e267fac6aa8943efc852ad7f9afae69ca012926a479ca285
+✅  [4]Luana  |09:26:52|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe60c6a99b38f01c12df46b65244ad8366d43f36bdcb2c9d34a5ea13e2bdc75b0
+✅  [4]Luana  |09:27:03|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc3a17a1e5da3018800edac7bd74f74c33acf393cf52c781727ad5a80b7126874
+✅  [4]Luana  |09:27:16|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8415a31d8372c369d9cb3ee619121c8f125891bbcba1efe23377c67559f5b419
+✅  [4]Luana  |09:27:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x528a4c772c0c63d5db5828a84ee348b84ef27211c95d2f5627c8afb23e885779
+✅  [4]Luana  |09:27:40|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5c653d7e1d26f8a2e068c9a9775994b66db9198260e74d507b9934451227296f
+✅  [4]Luana  |09:27:50|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5ec8b044cb76d7785ea1ac0bda7d1853017f21c10bae58e4f4765130d1a5e919
+✅  [4]Luana  |09:28:27|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1b1a605a794c0a43182b7cd6ff0c016c779aa3fb632541460705d45b8c1251d6
+✅  [4]Luana  |09:28:38|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf826a5e0d5f5b1ff4d870c54f748869d7d561438127af6bc21884af781dcf089
+✅  [4]Luana  |09:28:51|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x619e57110094be35c4bdb6d59a466adb54482f49e3fd4a78290007c0eb3cf182
+✅  [4]Luana  |09:29:02|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x90b3d985cc7d7c2f28644996d343266514f11e50852fec10a82ce2993cabdc9b
+✅  [4]Luana  |09:29:15|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2aae705f4c97ecd236d0b0dec238f92b491d71d3c6a2e1555ccb4280da066961
+✅  [4]Luana  |09:29:25|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x536f51112dbe7f4f194833b8947a7e00ee8e8937ec3d6d751019cfa9145bfe5b
+✅  [4]Luana  |09:29:39|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x533181eb263b359baf4c3eaf509959eb692a6078261e2ef7848353a08a774c1a
+✅  [4]Luana  |09:29:49|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x41f28513248e2b2dfff225d1189a3f5e9410809b11b819febd33f089290a2cb0
+✅  [4]Luana  |09:30:02|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1e0daa9ca3d5fbea3edbf1a4e87d0e91c357bfd537e18c638c4148dbd7b0f645
+✅  [4]Luana  |09:30:16|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8b91bead3add7ee19ea6dc81309003bc33fcfacd2aa0234bc6db553ebfe6d2bf
+✅  [4]Luana  |09:30:25|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4c6e377d7ae8dc23cad3567d4741c6e92724e8bd5c198cf2d967a6f7a384418b
+✅  [4]Luana  |09:30:40|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x29224d85047554243f1bd36fc00ece6be75370954a877d4169af6d924fb8b0bd
+✅  [4]Luana  |09:30:49|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd73860f62b4c299ec9f67c225b96a29520de84d7de5ea108064ac26b0e278390
+✅  [4]Luana  |09:31:03|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe5283efd42144195d5629a38e2f1d381ea626411f19ce76a56c2f8e6e5af39b7
+✅  [4]Luana  |09:31:25|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7e5b4325e3d19f6d109884d9b9cb9e7d265a20ef0afbd42a59b97078ddd09e5c
+✅  [4]Luana  |09:31:51|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0c213273a1e7c41534bb56e51af318098f0829b5a98ef42a1c18a512d6c0c5b2
+✅  [4]Luana  |09:32:04|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xda5aef55f166bb3c4df8938e81e98a956e03abb9f9ba4e92a0c612ba9a65b739
+✅  [4]Luana  |09:32:27|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe10677ddf75b6d9f214ab0916430ca1522c86fd38320898760fc78c751895fe7
+✅  [4]Luana  |09:32:40|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x24ba862b2ef985d6d88eaa3d6a551fedadf87c0579537384433e7dff68c499ba
+✅  [4]Luana  |09:33:15|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x175fdd2520c7b19c04fb6fab921095a217d57df87f4fcc6dc41d83d32f2c0ca8
+✅  [4]Luana  |09:33:24|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe41986c46959e3bdf35d6e07c1049d1bb1c26561cc2bf6333ca26069965a031c
+✅  [4]Luana  |09:33:39|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4b6f0e3d3a75c80d01bce52cbe18e53a8d9422564396559c8f03c8d19f3747da
+✅  [4]Luana  |09:34:04|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7452f3def52245c6dd6dc230ddff961c1538f35105774abd7726a05c93f03196
+✅  [4]Luana  |09:34:14|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xee688a74431f10e9deb2a6081004baa7395743534944d9b105ad8f4ec29074a6
+✅  [4]Luana  |09:34:28|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8d00b2b0a910b5dcd856713a18d1447f72d566c44c1b941d142f244f7fc4e65b
+✅  [4]Luana  |09:34:38|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7c0c328a1d5e945f0e306387e3e5f255cf84e00309dd67095d7dc7bab9278a58
+✅  [4]Luana  |09:34:51|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9d6791696561e1b2c100efee9fa4dc7dfa9fa040111228dca9423837934ce132
+✅  [4]Luana  |09:35:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6468845d691d43facc7882755526709dd32951c753581f9ad7f6a0e0a554d848
+✅  [4]Luana  |09:35:27|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7cb4f60a460876466966f9d669d641761036d82251fee5037bb708853f259d1a
+✅  [4]Luana  |09:35:37|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdde4c226462920091c78909804d1aa7ceed6dbb11531bf5bba65dfeb9bd03fed
+✅  [4]Luana  |09:35:51|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0596fc932bc1ae9becd5c0929294f20679ce05f41345c9adaf89c241cd93704f
+✅  [4]Luana  |09:36:01|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x11fdd96fe3f424123f9aa0022bc7634ee9dad2414c2017f49dc2c2e7aea848f2
+⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
+✅  [5]Linka  |09:36:13|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2b67b630d891eb047d9c3eda10beba0a8fc18d2a10f72fe5111d972472599195
+✅  [5]Linka  |09:36:27|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfaf1a5f8fdd8292c0f6a9b16720239b27e27cfe254c7185c2e198bc51a868741
+✅  [5]Linka  |09:36:36|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa9d385e2ff81b0222870210c8145fb03b1b05507aa1d5167ab489c36a375b973
+✅  [5]Linka  |09:36:51|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x30d118b4283436825a4ae31756ed25cb61fa2b872b70eb88f3d65caf56f48249
+✅  [5]Linka  |09:37:04|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa2b0bc459b0550439e89ba01191ac5a63e146aa7d8f0d7becf1f16e31af784c3
+✅  [5]Linka  |09:37:14|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf9da193a04be24eeedd2466bed71f018c07c84b88bea9b3f94e4b85647072c4c
+✅  [5]Linka  |09:37:27|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0c25666400fd375e1fc37962785a18c29dbea2feee56359861c773fd2b913f5d
+✅  [5]Linka  |09:37:38|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3766138c08ebd3b7ed215d1565308d4770e2bbb139bb7982c08e628b5d37ff3d
+✅  [5]Linka  |09:37:51|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x59de6f875ffd1beb1a06eab1f98a80db2adef19b55d03f1eb206e0aec1df09fb
+✅  [5]Linka  |09:38:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8c887a2d0fa9f34ef196d74cc944bc6fcc1e43fb6dfc12420f37ba1edcb0a158
+✅  [5]Linka  |09:38:27|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4a903f74d6eb73a144b86b277718e36d90a6f446684b8457e28c4a47a439ba36
+✅  [5]Linka  |09:38:37|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x496e4309b38561371ffcd3e31a498d44499e160c92cab5393c325018e804b3aa
+✅  [5]Linka  |09:38:50|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x65a9932603978d43fa9d92f187ce3a0d55d4f08bd4ce521573f302b303b063f6
+✅  [5]Linka  |09:39:05|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xedde8ed8a13f19bdf90185e28efc8239ebe4dd1dbb0423dea476f347e451910b
+✅  [5]Linka  |09:39:14|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6707b08f8ea1c4b04a84483c1a414491fd8b0ff369b02fabf8b23edb62aaabaf
+✅  [5]Linka  |09:39:28|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb2300eac2d22d5a4d57c19ea2bfaeb9636629c1a57503eb31dc1de2fec56bbb8
+✅  [5]Linka  |09:39:37|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x917745d599a2701de9bdee2c526919ef658079f8aa4a4c83b62c28a49cf1d65a
+✅  [5]Linka  |09:39:51|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3b49f0e2e3450c981a3a6d82e079198e1acd21322d167e68020b57a3b4d48a97
+✅  [5]Linka  |09:40:13|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xca504cbebec916f2add3b64d0e01ff0d4f55680437b80543208fb5ae1b456e49
+✅  [5]Linka  |09:40:27|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1224e4ec69d3b1ec2c6344107302586f1781c7a1daa1639cd0af9682dbbba2d6
+✅  [5]Linka  |09:40:41|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0182b44e97c9f52658b80578abfccf824040d70bc1ae1354aca4bb611fcb3143
+✅  [5]Linka  |09:40:51|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf9317e87dc7097ee9dd3cd042d0b41c9ebc6b0e9cbdabef62d529ffae886c108
+✅  [5]Linka  |09:41:04|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x43abeb976f065fe98a8a02f02c1cd643ac92a25b0c7253237d474b846d188647
+✅  [5]Linka  |09:41:27|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x684de514c4157eecb0b57e26fd45e09a2d91a6277bd6b1bec8acd57a3567e6a4
+✅  [5]Linka  |09:41:36|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x98f93f70de47057e3131766bbc246ec8bb8fd4187588345e59239a3b9dc4f65d
+✅  [5]Linka  |09:41:50|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb5781e8ea42891b7d3d301086ee1727d4fa45e2b71265d679d3a094975ae6535
+✅  [5]Linka  |09:42:04|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x18ebe69d112c1a684efd8a026af0a0a2970039908f6f321be89cbd44749f0a11
+✅  [5]Linka  |09:42:14|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfb0b6ffd86dc51e267cbf36fe83d51a7ec448c99c027f96f4bc177010ef5dddb
+✅  [5]Linka  |09:42:27|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc92d5c6c79cb6e36ae5e0440e03fc966fe3eeaeb0aa9b43aac6a9b4e8fb7e6bb
+✅  [5]Linka  |09:42:37|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x691d2e9f89a9ec3a72688141e075a64830ea67d178da6ade989154334c667770
+✅  [5]Linka  |09:42:51|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7bc2e1fdf181eda693301be4117564208ec47a89551db2dbdcb54dc640e877b2
+✅  [5]Linka  |09:43:05|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9e4ee8d43198fc10f9f6aacea7ff7f1f408e18e51316ac3ad5017defab2ca8bd
+✅  [5]Linka  |09:43:14|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb860f077084fd8ba8d2a244f2bcab5c56a78fe77346249895b907863510b6839
+✅  [5]Linka  |09:43:24|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x139d91797e5e273663c28b01dd44a6d62244cf7f654ab45e4c999f810e34b90e
+✅  [5]Linka  |09:43:38|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9119e93d00c41cf3f5db8336acc9566509f833d651262039e78a10ccf5cd3995
+✅  [5]Linka  |09:43:48|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc7123307484e09ba70b6778fa23291617562769df678c4293fbbf848be6605ca
+✅  [5]Linka  |09:44:38|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5fd1d7052368c39acdb8d436249e640b37cd753cc8940e8b50f94569644b1dcd
+✅  [5]Linka  |09:44:48|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdd80235c2e515abaf95fed4e8697cc0d9ea0a398aa762dd7cdd48c1ab26b9b19
+✅  [5]Linka  |09:45:01|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1ee27c563f0aa58762f0a448117efd28ccbcc417fd011a36d1c9cab76cb7e194
+✅  [5]Linka  |09:45:16|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x057cee530db4b9317dabcfb5ccdfa1020a99b4a63b4322ec149a4ed20a923e90
+✅  [5]Linka  |09:45:25|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd6209dd780e2d388e42bdf68840599cff75e0e1366480cfea3011156c30f84ec
+✅  [5]Linka  |09:45:39|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x685aa27cfee3811fb4db5baf2f6647b7de641a560eb03f7746da918e707746d8
+✅  [5]Linka  |09:45:53|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe6b1fb8c0f6517c4766d9a4e359e0289c84cfa2e1e7603039dd53e2245d4729f
+✅  [5]Linka  |09:46:03|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7dd393f8fd890dc13357e5f5eb98760486b4e610bc84923e51178fe3df35d9f2
+✅  [5]Linka  |09:46:16|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4dbf85a42c6bada857d83fca5a022ad5dda905df39706ec26e86f584c9499bf5
+✅  [5]Linka  |09:46:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfd15376bf727b1693a81ce7355ec8974bb38ef9658d12d16b3d4462b2b1a2db2
+✅  [5]Linka  |09:46:52|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa0dd57a348032671b2fd55fd0a62c6ae8ff3c65d8c57d17083781eaf1dc292d1
+✅  [5]Linka  |09:47:06|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb03ad70808cd24c573e2924704ec730a786b03cffb2913590881d89741376216
+✅  [5]Linka  |09:47:15|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe39664040e265a706342ddcf1ec564fda162024d9930a8009010547e23ccb030
+✅  [5]Linka  |09:47:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1ee0285f6ec4c73c35d1a32bb885331b4f0b4955bb00aeb25e673b8b03af07e9
+⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
+✅  [6]Nilka  |09:47:37|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x016e472995c701683ff1434b39f54c37b16009a2ad7f76b084689f767d60c162
+✅  [6]Nilka  |09:47:52|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5daa5e8ae00f261b7869f136d4a3eebb5dd4b6c2e6f13bb0249b5a31a16a0c43
+✅  [6]Nilka  |09:48:01|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2104174c3564c4709c07984878d132c684133f3edeb7d4fe5a58e2941cce0cfc
+✅  [6]Nilka  |09:48:15|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x16fa3cf996ef070220c2fb59aa1637cedd250bd2b4d77cdf77ddf3d91fac977c
+✅  [6]Nilka  |09:48:24|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x852fd7d34bd75d93d49defdf9c7d5a1152696fd40695fb576e0b0cc2eb92d393
+✅  [6]Nilka  |09:48:39|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb2ef839af5b3caa2acc35c61836bf8d157de3dcc88d60574f83d5f6f90636b21
+✅  [6]Nilka  |09:48:48|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5f5e7c78813d42f78b129c7b6871df5d5e2c114ca2e17c5d90ad9b4238ba2c62
+✅  [6]Nilka  |09:49:03|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x77de3e8eb31096971a70d907ef8c9dc623cbf7da1909ca27eca569dfdc95a39c
+✅  [6]Nilka  |09:49:16|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf5023cd8102dffc15e9c11dda6dee255f0253f3aadc335ad7098ae30d17a09ad
+✅  [6]Nilka  |09:49:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbd6c51b04673c4cb99adecaefab44e7fe0fc19c2d865879ef7362f36d0672c5f
+✅  [6]Nilka  |09:49:40|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9fd135499e4fed4e0dbb4cc401305ce42ce1d1b8adbe014e6d1de3e190ba6c59
+✅  [6]Nilka  |09:49:50|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdc9b911b115a53277972dfe343b5327d418555b56f764fa9faed8c12ac830798
+✅  [6]Nilka  |09:50:03|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x33111ea0749aa595ba2896a8ed1c7172d118183d8c701f436d89e9d67cff151f
+✅  [6]Nilka  |09:50:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6b0643c04afc53c01184db6205f1ca99c08e36f074acb0aafcd4d8d65f2b7d22
+✅  [6]Nilka  |09:50:27|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xad67e298a97bc5c055373db623c35183a03cccb642fcb390ee0bbe6d10600be0
+✅  [6]Nilka  |09:50:37|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x192ae2189c6596f8ae27a4be39d581eda9a909a426eddff5817e651e807195a6
+✅  [6]Nilka  |09:50:50|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2fc5fd525472d43735f49079f47be744db6bf25876f18f1283bf07565e4622ae
+✅  [6]Nilka  |09:51:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbf0b83f7b5a8e122e4022959101ba118ea036919a5fe330228e245680ee42707
+✅  [6]Nilka  |09:51:26|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x908ff990d1b4fbc7030cd161537480f13826aa254bd6167c61e55cff73e71dad
+✅  [6]Nilka  |09:51:36|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3c228556987c0b938be9960769eacf95027f8e04a6b87264bc852c4b351ac1a3
+✅  [6]Nilka  |09:51:49|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd23a83f6b78a6094a69a3f7f84b37d1fb13ff72e9d3c11642de9c04d997d2cce
+✅  [6]Nilka  |09:52:04|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x07fc5d6617d83cc6b6b10845fea691a311c90b3e44dfe221aead26ec4fcc7ab8
+✅  [6]Nilka  |09:52:13|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x92d68c9e53fc3b815c15c3d3880f0d2dc807457fb4824fb4f5e7681d007e1d16
+✅  [6]Nilka  |09:52:40|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xaef0ac1aefe1943eac0f1842120b2f16755982622e33f6dd08b692d732d5248a
+✅  [6]Nilka  |09:52:49|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdad4a0e8cfd1462b0f4829ee4b40e90d6fd4929b77b723a524b691bc8af22aa2
+✅  [6]Nilka  |09:53:03|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7c3bb8043547eac93fed4de4813c60fc8f960be8ae93a809a1c01a29de295b67
+✅  [6]Nilka  |09:53:16|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x88b053d75f8f2c2703724616f96e9bce2a82c822a0f84b18e957cf0bd5d912c3
+✅  [6]Nilka  |09:53:27|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x14180104e8e98512bea3966a823c4265789967979a38430bd110fba14bf4f71c
+✅  [6]Nilka  |09:53:40|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa645ecb2843cbd8d7dc567df79f8fc86f796a63e156861333ef45b39df98d9b4
+✅  [6]Nilka  |09:53:50|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc1c109d53c241920de46239732289c06799de95d80b520f4dea79061b71b5ad6
+✅  [6]Nilka  |09:54:04|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf196ad05943955de91110d2060d4ebc4cd77c8718e40d325b818bcaa364092aa
+✅  [6]Nilka  |09:54:14|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x411420386b13d4d8dd3f2fc8c86d747fa92b1f27518a2a72126d677171fbbb9a
+✅  [6]Nilka  |09:54:51|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa50207e60196ac6db4e9a4539b4f3b7f3ee45882e115ccd2e1bdcba3f96b352c
+✅  [6]Nilka  |09:55:02|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa91b0a5021f1b1e3fd9b95c1e1a6d762efd27dcf992a5f0276e42468f6c05d85
+✅  [6]Nilka  |09:55:15|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x17aed07024ba43f844fc67869e76d6c465091d68e702d1c4628386730a997402
+✅  [6]Nilka  |09:55:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xeb125c14f9d4b69c61cec751d1b8b060e83b68d409e4307c9a5c0cc52c1b0d6f
+✅  [6]Nilka  |09:55:39|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x390c3d7d5d2f11b240bed8f836b500207a38484a4309d33354f27c5beb2b2184
+✅  [6]Nilka  |09:55:49|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5e9343114eabcca9943ef5c4d9f61156550307369bda5f0b427d299a7ec759e1
+✅  [6]Nilka  |09:56:15|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8af2243562787823d3c337579fa1485a9801df32701ddd93adb84eb5dc617986
+✅  [6]Nilka  |09:56:25|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xea4e32ff1fd3f51a3bd06ff3a17fca744fa265951f8b7c8e0ac4153b33925fd8
+✅  [6]Nilka  |09:56:39|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1f64e1b86704e77f24d9a5089b04ab05c7dff4eff0dbb5bf5cd2d7aece9d874b
+✅  [6]Nilka  |09:56:49|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1d1bf857ab33563792b57bf0516fb9223696c0b0519dfe57b27f4f5cbb2527c8
+✅  [6]Nilka  |09:57:02|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf0e9863db49bca5d617afbe53446efd6965ddc4f8e8d4c583a5e335f8675e64e
+✅  [6]Nilka  |09:57:16|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbefa814f9462c45a2317e6b118898819ae02eba1517bec50e09cb4642b351474
+✅  [6]Nilka  |09:57:38|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x68d4a0d2a9bff44ce578897559507bd460e445d80b2a1c048dc9d0fd04320664
+✅  [6]Nilka  |09:57:52|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x397a7141058ed6eb958d7660eb6030a96f5fe56bd86c39118f539d8590e2c050
+✅  [6]Nilka  |09:58:01|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2cca373d5eeafaa3619a5667d75359edccb101cd75aba5ecca84bcf8ae7458c4
+✅  [6]Nilka  |09:58:15|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe3a6772b1295a85b7d672d3655bf0c4c4f863657ec325dadcfeec7bc7feb59b9
+✅  [6]Nilka  |09:58:25|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0bb0b9336a943f9b5f59144cf6d953b08d95c1aa40192f14adb5ad95f5199401
+✅  [6]Nilka  |09:58:39|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x315bd08fc2e38c6fd60b1a502562d041485f5009009ab96f89b0ddc487394b5f
+⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
+✅  [7]Liona  |09:58:50|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3dc38bfcee7f36e85c21a2468872caffe49ede98f7a614b79af488253613766b
+✅  [7]Liona  |09:59:05|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x59645c4d6a210eff312a30146520321d1511bdd25bb7f353763f28e36cd5e3ad
+✅  [7]Liona  |09:59:14|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x893c25ab947d729b206b89fefc3fe4bfca131c086c31309bac231855316cdab8
+✅  [7]Liona  |09:59:24|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5f338317c73d1683cd5a0a49d21e594f7ded95031c1f9846d830b301cb615585
+✅  [7]Liona  |09:59:38|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x528d40fcdecf40071a4fff1406d387ba2cf9f721ce8b821a5f176bd9efdaf3be
+✅  [7]Liona  |09:59:52|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x06ad197abd47def0a48d82c526f73275a5a4d3d711ba79ce8624d236940ca653
+✅  [7]Liona  |10:00:13|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa55bbdad9ea8ba8cbcc1b7c72502c2efa9549b6ced7512f269bc4c38bc326388
+✅  [7]Liona  |10:00:28|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x90f29a0bcf0feaa9d42c5f4008d99be1ead4df1089004e2484c473663620bdef
+✅  [7]Liona  |10:00:37|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x187322d7a08de5816276a70710877e7f41b7fb3767dae7770fc4b2ed2b0922e2
+✅  [7]Liona  |10:00:51|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x35e16b24b1aad3f096b5a7a3bb7c08f43fb46bb5637416e429422ee6d15014c7
+✅  [7]Liona  |10:01:01|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe9731c0fe150f3d97b7599b7bcca2bed9d7d08a7565f84bcb8c5de1e0d9d049b
+✅  [7]Liona  |10:01:15|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2abf0c807ba25f70be1bbbf0cdb0d7a4e71743a230bd8b83fb783303f40ed6f8
+✅  [7]Liona  |10:01:36|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0c5398f91d43121d802afd100c266eb2245181154dfa11c49e53af14ecda5dea
+✅  [7]Liona  |10:01:51|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa41a8f976d1583451a8dc3ff7affeaac0983a9e57f05e9c0fd24d44c8caa7063
+✅  [7]Liona  |10:02:04|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x33e1de7ef4b2bbe6cb5ae727a16ae300e2175be8c303ec1bcdbc78d5da453dbb
+✅  [7]Liona  |10:02:14|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe705f95f12e664183c6c6a5697ffce210c2fb3e8b0c612ffa561b2f909159339
+✅  [7]Liona  |10:02:27|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0563487a581de36fa190a094b57d6b74ee90fd05add7fd3a97e70d84b1c62cfc
+✅  [7]Liona  |10:02:38|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcb9200febc24a82462a04856ed89d0d1103cfbce4cf76d884e0a8fb035b31548
+✅  [7]Liona  |10:02:51|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1afaee92ff27a123ad7c589cd50afaaaa22defa9852e6f51c5bebd9e1b2db66c
+✅  [7]Liona  |10:03:01|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf681981903ecad2924fba68a142fb67c584481e3af28a72a17328fcc9c2ae594
+✅  [7]Liona  |10:03:14|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6e0fb0e937d91d6e0b3462f9bb3c2ba69f00d535e021fdb0671bcdef17569a9f
+✅  [7]Liona  |10:03:25|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9dca1f3df7d230ae82d2457b344d4f6d025762a8328d9adbf1a25129476df5cb
+✅  [7]Liona  |10:03:38|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xac710dc5c715e6b40f7820673836e1afd36b1d7f923a411039f8790615beb2f7
+✅  [7]Liona  |10:03:52|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x687c01840f61b9db5cbd97a28728d3dd6c34443a398058f01593c8596205f9c6
+✅  [7]Liona  |10:04:02|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb255bea9a82b8ce04e530e52cb4849598817834ddd23f94e0f055a3d31714cd3
+✅  [7]Liona  |10:04:16|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x325f3ca5876dc0dd57f483538febe7d513fe2005108526df9f0dec176a7c6f82
+✅  [7]Liona  |10:04:25|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc97b5d925fedd31ecac8b6669f240983332f0bc10d9f8477a0641cb125736d4e
+✅  [7]Liona  |10:04:40|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd304371c61ef023fdf4f58fe1d7d7de6d020ef5c25f9c7b4bd8d54825e83921a
+✅  [7]Liona  |10:04:49|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x97c88461aa8fa7208888b2a84b9d726b841843edccb55a33c2f8ad07dc624c2e
+✅  [7]Liona  |10:05:03|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfa6a7b4843708e318ad05536df097b3360fd16cb2e0b5c1e47c7b01db7a802d7
+✅  [7]Liona  |10:05:13|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe8738b9f12f2a5cdb8a35ca1bd9151dab42e065a1dc5429e15d6c1d17b986917
+✅  [7]Liona  |10:05:27|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbac189b37724bb485176de2405d4b26c0012f23ce0b8919bc056ca058902a02a
+✅  [7]Liona  |10:05:48|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa8211522295f16999deb2299fb5a858ed6df812225cc272731216cbff6469330
+✅  [7]Liona  |10:06:03|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5047e79d5838f2a5e494ff2e302ee5938a15dd92e0f4b6e9af03b46fb4860a30
+✅  [7]Liona  |10:06:16|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd3fad62167e10e29670f43ac0371748eefaac05982d5492f8348cc3f2b6aa9e7
+✅  [7]Liona  |10:06:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf708138238a41196efe56282c94f6bd86b1f15695f29490c3669196c207c5001
+✅  [7]Liona  |10:06:40|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9009245ab75f5b2f868beee7f2b6fb74923a99ffa1ad777c656b083bef81cdaf
+✅  [7]Liona  |10:06:50|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe33baa3ab046fca77da5cfd01a29812e2d4c30ae8aada56be757bae1ddfb6881
+✅  [7]Liona  |10:07:03|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb5ec0e8bda997b385eac772369ef262a00aab593a2b15d119eaca4b20505a269
+✅  [7]Liona  |10:07:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xad1fd3f0bc61d6457e061444b06321bc95db1d5bb1d878698d9572eb1aba88cf
+✅  [7]Liona  |10:07:27|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x742ee23ab2889fd821728b50310655497277601506d83231e189753bdd8fe9a7
+✅  [7]Liona  |10:07:41|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa81bf139057e4da63862f52c33b163c595356fcc0ca474dc3f568522d2df2e10
+✅  [7]Liona  |10:07:50|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe91f1ea22a3f26b34cf7581b2881c5567af9e99772dbbd442350031340aa23f0
+✅  [7]Liona  |10:08:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x38a891a85e37885f494ddae18ba484131a0525a9e1ab870985851440314911fd
+✅  [7]Liona  |10:08:26|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3ff99cf8ca285d449c0f4cc9ee4ecb57abaae04acced68153e46532979045531
+✅  [7]Liona  |10:08:36|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x83f080bae9fe185baa92b2b6d231713890df72ebc47cd82c9d9cd070bf8b259b
+✅  [7]Liona  |10:08:50|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x56535c118d59537a3fb69a53caf9b84bf821ffcb0db408e13de225f3a2417a9d
+✅  [7]Liona  |10:09:00|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x70d250b0845faa176530d22661f30e09c891d17169c7ac8373f7b1a16215b7e9
+✅  [7]Liona  |10:09:13|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcfee3b3390a2a00d277dece581376b461597b77e8eeed1ceefb8f9ea2f41a402
+✅  [7]Liona  |10:09:27|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x15eaf37c92f20bf51f7f1e5d9ad571e18bc5efedf56d8e008c5259f205b9d300
+⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
+✅  [8]Nincy  |10:09:39|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbf45e6f0c8470c7fda6ba424a87a2203dca6b27eb1589b48826b291e7461c5c3
+✅  [8]Nincy  |10:09:49|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8e1e46724a5e5b65ff6e6f721dcc193777314edd2955ffb3faf72c4f4e0219e6
+✅  [8]Nincy  |10:10:02|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa2f3e693c5841fdd64f71c65227a49c04675fd38695531be32223a929d4965bb
+✅  [8]Nincy  |10:10:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf72863669cd86869cc9796e30f80055ed5c5f2bcd620e883f1022f7c98bfa07c
+✅  [8]Nincy  |10:10:26|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1b0d2a572411604e09f40439ec8a628576fbe4e35c59ed5362400c1e8bf7c057
+✅  [8]Nincy  |10:10:48|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x43e87fa9a4b72fc97baadad2f8bb446949153a572d656436dd3e4d6c3d04e08e
+✅  [8]Nincy  |10:11:02|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7424f12fd8dd73611970ae217e506898d734cc41e9962f25bc5b3b30e3f57e18
+✅  [8]Nincy  |10:11:16|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x30193352541c8293048904b8fb218a5e24cf890a5b19bfb094a04b393def34bf
+✅  [8]Nincy  |10:11:25|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x28e5714df64f9d88fc50668ec2a17dd2e1c1b657a57d3adf2689032d35828a20
+✅  [8]Nincy  |10:11:40|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8143639a0a9f98707f28613b95281b0355f5aafb9c72bd0b24f2191625f7a924
+✅  [8]Nincy  |10:11:49|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3554232d5a77d94d019857b740538535d300ab20800051c37ca49da34e03f6b5
+✅  [8]Nincy  |10:12:03|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xffa0c0be03a769abc8130d6bd1a4ca656d511ac2357529f1c492c467bb89eefa
+✅  [8]Nincy  |10:12:13|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x35d24d78d4f9bf47eaf870b0aa2290a773bc1654adb70e0ff8c702dee4ff04a3
+✅  [8]Nincy  |10:12:39|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa94f6416e295874bdfe8a90134bd4eba686ce82c2e32e63298c4fad03ce41f4c
+✅  [8]Nincy  |10:12:48|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4157ee7093002a9bfc964f2191d69738e9c983e4df07e967555014ad94b66578
+✅  [8]Nincy  |10:13:02|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x498254efed3cfa9be995416c64c398ef7bbb3f89152474fdc51a8e342021a170
+✅  [8]Nincy  |10:13:16|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0dc589d3ecfdaed9f888f6554ad4bbd257851271e4b9262df1d033a4b0e79b70
+✅  [8]Nincy  |10:13:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa0ebf112b0b1a81fdd3272d73d5fd51c30a8812bf9b8f613694fc2fc17877be0
+✅  [8]Nincy  |10:13:39|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc9a972c1165a8a2db35748434a5312a5d33f0c2e9ca84a3777c48679bf633142
+✅  [8]Nincy  |10:14:02|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x398630cf1d240535d5507f8b7398c4e646bc7515a6b90068bfb33a5eefc5dc65
+✅  [8]Nincy  |10:14:15|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4336442a333554c407311f24dec8e368d20c565650bc766bea1ee90905ec1e34
+✅  [8]Nincy  |10:14:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7e8f7ac8d972ddd4c2bc581174d415abea4c1c3d2d8ec999102534f83c95d9e7
+✅  [8]Nincy  |10:14:39|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1c1e26ea85eb9a849155bc253421080b6539d48ccd33a8f8fed5ffc7f81ca586
+✅  [8]Nincy  |10:14:49|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5f7ba2afda6fe1d42871dde42be739e0ef92eff702542a28e94cb5790be441f3
+✅  [8]Nincy  |10:15:03|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0194b7e0f9bf053269af0ef99479a73bfaa35c499577c5fd1bab731703d958b3
+✅  [8]Nincy  |10:15:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5a1a5ebd437db3113ed0cc7ada071b1f2477318db1846a736aa3e56229494efd
+✅  [8]Nincy  |10:15:26|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x991138542692ac982681554f37816d288de1cd4280b63396b327f819b8ccd3a3
+✅  [8]Nincy  |10:15:37|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4f0824a1924368fc14ad0bb75144906bfbcfceb6eff9c2f6431f3622a3b4ea14
+✅  [8]Nincy  |10:15:50|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x338f30364625d100e4c785d7ffdf904444546fed1634a62b7b204a8f1b2255f2
+✅  [8]Nincy  |10:16:04|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x91e05d54a20076b23d30814e3fae44730400daeb1193294db9d49e61e1362926
+✅  [8]Nincy  |10:16:13|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xaf58792bbadedb3e199113a68c72991f080d7582c1dfbec61cbeb383e25f6310
+✅  [8]Nincy  |10:16:28|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xab0e7e863382a6789a22ff130b3bcd307da34b88e2690c5d780292fde70873d8
+✅  [8]Nincy  |10:16:37|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbefd4ec118b02e6a675130a88eb02da81b0617c1114b9cb3b0f3b63759d3c6aa
+✅  [8]Nincy  |10:16:51|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe1e52085082b43f788cbf34f0ddbc7778e2b1642e56cda1a73ebfe57dc60b26e
+✅  [8]Nincy  |10:17:01|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb4ac24d2c313d6d045fe1cfa24ff62089cb36eec961224f911e316898d4813c0
+✅  [8]Nincy  |10:17:15|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdb991449105882c29a08dec3b59ee561d244928f55a67af35dade03c23a3120c
+✅  [8]Nincy  |10:17:29|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3e0a65cd71d2af5c8bccbca9953acd37e104cb7cd8288fb779b06739ba670e03
+✅  [8]Nincy  |10:17:39|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x45b4e4ad3dd6a870b492339ebbfefc065f9e7438a5976e2e6a2150568d365c72
+✅  [8]Nincy  |10:17:48|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf7bccb9ab180a165c661e35191f58299440ba17837e9f33d853f2eb8925ef60e
+✅  [8]Nincy  |10:18:02|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1b109ba2af7858b213f2f1c8d227d2cc7095d91eec80cb73194e927e1ea37821
+✅  [8]Nincy  |10:18:16|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0aee767e48e5dc9342c25825c2455d4f3b7f1b59c510d070d29b7d68b2666648
+✅  [8]Nincy  |10:18:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3128463c6b186937845d6684cdb39f8638e66dae3d58c3ae027cfaab714e658c
+✅  [8]Nincy  |10:18:39|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x68817693fd6bcf9e4b9e3c8f187409dbec90efbce2140f9861c523ad0d63fe31
+✅  [8]Nincy  |10:18:50|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1a58527d271706755b9d86d05aec35a94e0d09c5b523cf7d4162aacacee2dd3d
+✅  [8]Nincy  |10:19:03|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1f77101eaf59532e91b282933dd376624901e132e6c827f6d82e7b80853c8e42
+✅  [8]Nincy  |10:19:14|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xccdebb7dd30b17d562b294b2324b3f1f20e06299af5bff1c291247b5a80ba92e
+✅  [8]Nincy  |10:19:27|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x843e853c5e4f8f065172de58bb11eb93112cad841e9637ad2e49b85ad4c4ec86
+✅  [8]Nincy  |10:19:37|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x949785807fd401041974cc4ce5894a975884e21e4bde819724062a5d1c442c1c
+✅  [8]Nincy  |10:19:51|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfd6d77012cbbbfa5e24a27885bffa4a3f3c8039a0206fad542852fa6bf364e53
+✅  [8]Nincy  |10:20:01|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa6ae1d081b4704a86ad30c51861e2d7eabbd4f98d392c332dd1acdfa7047497e
+⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
+✅  [9]Nikia  |10:20:12|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xefce1c15c735613274edbc5f0c44bbf912dfa761822980238ec4b2b0b65ac08c
+✅  [9]Nikia  |10:20:39|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xeba79356dfab25dbf0639ea83db6118a76b2f6f5da4167902ff4cdc477f9baf4
+✅  [9]Nikia  |10:20:48|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfcff945b3142d7fac3c3ebda67b57b51cebb822d5f008897259317b0f2de9824
+✅  [9]Nikia  |10:21:02|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc1f4b606f519740d886a28d585bb2f798de25ddc3991812489a35e3f105c00cc
+✅  [9]Nikia  |10:21:16|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x61be9e53bfa730b1e23fc86605a68a33c9f2146a3e34ac756fc298977c2cac57
+✅  [9]Nikia  |10:21:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xaabe0467b56415f11e75f094dbb67363c098778c94cb306247c64ac5278aa1e3
+✅  [9]Nikia  |10:21:39|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x5eff48dfc20f14239b5e9156ab05ede24cda23571f489a8cd4ae737ad91f3319
+✅  [9]Nikia  |10:21:50|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xbeedf86f97035afc91bcc60cb4d5d39dcb27d866d05195660d6908370ea63758
+✅  [9]Nikia  |10:22:03|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe8e0fb3dd3b3987b8f6cbcfee2006a28d8843d5c312c6add4625b8e918ef8ec7
+✅  [9]Nikia  |10:22:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0eec9a7cdfba4d1d2ad2eff9bccab00c233be94ef927e1aa64b32dcfebb0fe5e
+✅  [9]Nikia  |10:22:38|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x790d658ca6dcf49175df230168e7d50b976606b573fa7154c689f85ea104134b
+✅  [9]Nikia  |10:22:49|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x873652dc6fbb285382a888961c02e2745ff3f3f3a473c315a7e90f4025e6a6c8
+✅  [9]Nikia  |10:23:02|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0e439b2d99b60920a232538a2be0003fca08e62e1066d9ead2b7933ad3fcdbff
+✅  [9]Nikia  |10:23:12|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x13daaabf454902019c7b710646672e06ce33f26f15e6815ca8ea438e6bc1c0a8
+✅  [9]Nikia  |10:23:25|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x97a083a3f99a4c99154db1ce02797b7ba8f3b97ae0b04a40cd9c6ac384a3f191
+✅  [9]Nikia  |10:23:40|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7a72c39b481f3d3b01c18c9fd591ed63af22a82132bb30229a00df4a0749d747
+✅  [9]Nikia  |10:23:49|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb307833f58ddb9e8c7eb7b7f64aae8c8d79603be9477bb6c424f52fd895d7cce
+✅  [9]Nikia  |10:24:03|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x873ba1a89b7cd69cd35d2609528bdf52dec945bba6ec805fac8dbd624004d8e3
+✅  [9]Nikia  |10:24:12|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6a672f51b9e1bdad50d61acbbe348df82726373107dc45eee37c1863d8922d4a
+✅  [9]Nikia  |10:24:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8ecc35aebab20a536bd90c23a71f48f1ab063468932bd4c9c5e28de9c7707c7a
+✅  [9]Nikia  |10:24:40|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4f5a1ab989ce256296c8d8324bf11bd77dccd4b6737897b7e017923abfd75431
+✅  [9]Nikia  |10:25:02|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x35d59eed34a22768a11092fcb8b6a4e1fe16c9e8a2bbb8a1f81b89b47cd54b48
+✅  [9]Nikia  |10:25:16|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2cfed2f3b515b94590d7a36d599ebc178e3aa13f49e20a915b05c42a0ce4669d
+✅  [9]Nikia  |10:25:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xee513aef0c2b4c2f800c471638cfb97be7c679d919c33cab78bd1a89139f91a9
+✅  [9]Nikia  |10:25:51|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xab7c8a6e7e145a0f7406f9d5715076dec53b1f73eda3f7319fa10196fd07a40b
+✅  [9]Nikia  |10:26:02|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4a3b6f610c1473fabf3d8131763df3a7cc091ae03a9e4020b53299bcbd5dabcd
+✅  [9]Nikia  |10:26:15|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xee1bef7ef672f765bf48273c1578b43310bb75d58b78eb5540e4588116c67c61
+✅  [9]Nikia  |10:26:25|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x830e69bf3c69754bf60b3bca0f4a449f135838b65d43bf9d54ced20c5db490f6
+✅  [9]Nikia  |10:26:39|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7114d692c27c5a3819d037445a24b8f8e23c2c74191e8f013bbf05a2e6efd2f2
+✅  [9]Nikia  |10:26:48|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc396719c9f2f4fc67894bf0ee866275ec9fd23ca7f0ba0038a5c8d2789b00210
+✅  [9]Nikia  |10:27:02|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa17a98c6922862f3b01d6184d8cd6dc2e6d71eb4a01f7202e0ebbd604093bd8f
+✅  [9]Nikia  |10:27:16|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x631945af37c5e3d58e9ab7e0e4406adcee7a109e927ad46a70103f528e0a0adf
+✅  [9]Nikia  |10:27:25|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x439fff212d364680767623cc5a0429b88ded34f99571952316b79fb53cb8e2f3
+✅  [9]Nikia  |10:27:40|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7251e17bf5078e447fcf494525017c30c19e99eb9c2f9cc231f3a3dc9fffac13
+✅  [9]Nikia  |10:27:49|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3d8035ecafcd177b605394edbe2a292601c57fdc5e221a79a7061a564b0b9728
+✅  [9]Nikia  |10:28:03|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfdfc0c51087417c2aea9ea1ca7e471d6d74dab06655382864a24b493216f3b9f
+✅  [9]Nikia  |10:28:16|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x08f14b2197f7b8b0874f7bd3184f24e2f751eded4374a7930e499a129ccc9014
+✅  [9]Nikia  |10:28:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xaca81e8131de80c05a67fb83377b2ce43e263ee4eac459923069da601f439ff1
+✅  [9]Nikia  |10:28:40|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xec461cd677b76946bede6118b90e95379a0f6759b2cc30ee3544ff2aac3d328e
+✅  [9]Nikia  |10:28:50|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4063e0da604f24a969e889496eebe614405b443170430e1e7ce64cafd9a7474a
+✅  [9]Nikia  |10:29:03|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3a937598588836459b81c35debef926f771400fdc17d035c263dd2b26aa7eded
+✅  [9]Nikia  |10:29:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9b3f7ff2ca23f0552c9e9318a4342ca00971b00d9afaa83370b34890803ae1b8
+✅  [9]Nikia  |10:29:26|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1c2526ca0bf007875428e66d4a46e97b0b06bb0534d0ec6645dc67a911cedbbf
+✅  [9]Nikia  |10:29:37|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x237018972b26efab74253212c75d994d38f670c73f951f61ebbfdced27592f0d
+✅  [9]Nikia  |10:29:50|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa409c38e21782683c3b8f71eef733068a5baa047804fd5e60ef74c7203b72f45
+✅  [9]Nikia  |10:30:00|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x49d60616547b1bb60db4ca435ba45cd30d5c2f154b9c5f27ce615f73804f0fc5
+✅  [9]Nikia  |10:30:13|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc26092e1e1b2bbd4945f052ae21bef3ffb4ab26b5e6d8e8e6dd485e65597a8ca
+✅  [9]Nikia  |10:30:40|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x472aea0d6a66279c92367785a31c3f2a1e159646837ea5b0fa8ab6ac536f4257
+✅  [9]Nikia  |10:30:49|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x6934849df1755375ca8d69b86d07ab44ba56ba097718062b7b80a063432c081e
+✅  [9]Nikia  |10:31:16|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x58691ce815990d2e03487416714ba2a2a32c26cb4f264d0fa8e2a07459674aab
+⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
+✅ [10]Diona  |10:31:28|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf09a09f743f46d1b4977a7c7cd83a049614228a2847642a66672cfda739d7d47
+✅ [10]Diona  |10:31:38|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8ac8c603ef7ce1f35c63411710fae04f952fa7e862a14cf0dc2ad648ab869b65
+✅ [10]Diona  |10:31:51|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x43c91037e42f892fbeb4c2a7629a965546580abcebf7bc339c5e119ac8d5eff7
+✅ [10]Diona  |10:32:01|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xeb647a3b5f4cc76818c7cc27af450a004346b6d031841412fdf67ee5f7f40b75
+✅ [10]Diona  |10:32:14|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdbcf3515c862edc6b218a4becca2ae5c0533b4f80fcfb9aa34d6cc32d969e66e
+✅ [10]Diona  |10:32:24|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe7efa23c19d3aaf96a6e1924d90ef1276eea705ad4fb34645e3537cd71a2e8b2
+✅ [10]Diona  |10:32:50|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xeacefc851b8cc737185396243a4a28ca8d80ae0faf776e4b31303f7b1578e98c
+✅ [10]Diona  |10:33:00|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1ae3e668f6e097de1e622d62eddec75827734ca95e9f571e82401847db796669
+✅ [10]Diona  |10:33:14|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x42f228dc34e3083572c65a516e97d07d9e6ccc899d9a064f714b06c149a25f44
+✅ [10]Diona  |10:33:24|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xaada9ae8826b270942516148b212a2a488a56a69652588a58765020b1b5c33d7
+✅ [10]Diona  |10:33:49|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf1e95771ba85c75f882093f5bb176eaca048248a57cba0733829c558cb124925
+✅ [10]Diona  |10:34:04|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x86736241bbae5ee8d10fa42a003674280976bcdba969434b3c99beb115335375
+✅ [10]Diona  |10:34:13|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x070d64b35d6352bbcf2a90e724333d58288532f420f06d721e654115cccd7794
+✅ [10]Diona  |10:34:27|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8d6a72cb1aa6342f18dce4c481e43e629f80a9c0e5bc64271ea5643b976f4812
+✅ [10]Diona  |10:34:36|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x51faf0830e5de0c0da787732de4fc9aa856bb995dd1962974da5aa80676a6439
+✅ [10]Diona  |10:34:50|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2d9bfb675e10738a12a4d5c1e06fe1f4253e44eb846052cfc66f5525e829feb3
+✅ [10]Diona  |10:35:04|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0f451ced4545599356be517a8530ed9eda1ec31b81fd4689447804ca64e71ab9
+✅ [10]Diona  |10:35:26|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x8f41dfc9d30d17118594ca09d21eb106b542ec778dc523a80109689d915e5709
+✅ [10]Diona  |10:35:39|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x9816bdbfac48e3acc0ee505e6ff96b1e0ea87a76bf08b9a81219f415077ca410
+✅ [10]Diona  |10:35:49|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdb10d283f8becc5b2bd49503823f6919d27bbf04f663eb099e0829d34aa17d44
+✅ [10]Diona  |10:36:03|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xcb21c6a60f84e60587b1c5fb709f0e19d6364cc550b471bd5c501ce94cb95f50
+✅ [10]Diona  |10:36:17|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe7e93e1228cc244db0dff128243b4ca17a0c99abb3ab56a64095bb22430e9a78
+✅ [10]Diona  |10:36:27|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb0f17353eba0e17932ee28a05978a6a1111e2e24bb8d989c9e8626c59a77b59d
+✅ [10]Diona  |10:36:37|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x56d48084cc1381a1aa3cb3ed7c177c8745a7ad7ff23ea77e02bbfdcb452b2ef6
+✅ [10]Diona  |10:36:50|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x93e7158a6f1da479561fa1877bd15eecfc0059b85a0636b4a715b500dabf7306
+✅ [10]Diona  |10:37:05|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x3bb5c3cb86df0bb0df9c2a030ebd0b4accac1280dd088341ef5f51e0d90e53c9
+✅ [10]Diona  |10:37:14|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x24d823597b293917b328e80c08111d0710775fa8e3997c592972181fe6564952
+✅ [10]Diona  |10:37:24|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xd2a7158d7abe1bf71347e6ac3c44b9419b7c1445d51b5a49527e78268e487d44
+✅ [10]Diona  |10:37:38|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xa8670018148cd685ce20fa7555a5905f2f3bee80d7d6577fb7d321ed7f536ccf
+✅ [10]Diona  |10:38:04|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xee156a504a49b4246e478fe190a02e8674d7009eb6ca0614080b16228f7a495d
+✅ [10]Diona  |10:38:13|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xef4ff8acb566aebe9d7ceca6393680b8c1c86daf88b31f179cf40f6074ebb5de
+✅ [10]Diona  |10:38:28|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4119a5e79fe0c766cea7093e070a50681bc19cf2fdbcdadba0fd7f0cd8589cb1
+✅ [10]Diona  |10:38:41|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x2f0f4add9c4c750fd1491662b4faebd69eeb46f185507a0a6b700eab214ced2b
+✅ [10]Diona  |10:38:51|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xe1342d58c037b3eab00110334e2d7f07ffa1ba1e73d1dabc7c1786d8bf393770
+✅ [10]Diona  |10:39:04|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x7c28dfca361ef4f891598fae6fbbd715bd6d9ae26fe7eee7175089c032b4d939
+✅ [10]Diona  |10:39:15|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4111ff180d87f19825e1b4e5ef71e0214e6fe680451d40d1af37fd2dcce43110
+✅ [10]Diona  |10:39:28|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x4fe04c4994ef30b66413151fb3a7f5c4f44d28a6ed4d52d4d6ec99ef37d3e572
+✅ [10]Diona  |10:39:38|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x648267e0d187f823974fb9e96fe58bc3e4c1a5c16c8bdc01cf9bbeaa1915dff2
+✅ [10]Diona  |10:39:51|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc3b406115db8d0c1932bcf912a182b24ebc4fcd06ead0e2a0dabd75e85e15a58
+✅ [10]Diona  |10:40:02|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x943ae90994b49d8572b7b61b25bea1c8a3ce990c88ddfa33b120c4a568566e57
+✅ [10]Diona  |10:40:39|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x75e04a36e53507d4dbd8e268224cd523b1119881aef97c1737dc67929b121e9e
+✅ [10]Diona  |10:40:50|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x22cb864cc0c4b97fc71287bdfe7855c5c6753701a9a4f0f2c2ea4a899d6699fc
+✅ [10]Diona  |10:41:03|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x0cc06cc5e47ca651f036f6d35ea9a166cb450595f771da88dccd17683ab0faf0
+✅ [10]Diona  |10:41:13|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0x1b492004f9c42cc3ef59a009d111ad8c7194b07faf82b356252796b8af052cfb
+✅ [10]Diona  |10:41:26|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdad67799761e7914ef2e97562d6fa49cf0603803df940c6d61c6cdfb06f1a569
+✅ [10]Diona  |10:41:37|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xfc58725d11e2a2798217fcfa68088ebd991e49b650a4eed3f6ac13994c1bfbda
+✅ [10]Diona  |10:41:50|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xb597c30ec30da0761949385c2c8cfdcf647600ba1b54076347e161692380605b
+✅ [10]Diona  |10:42:00|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xc2e2ce92a20c2db7390912355b2ae7aa19413b99f2232f3a1fda056f6c49a39d
+✅ [10]Diona  |10:42:13|07-06-2026| Mint USDT+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xf543d676a142fa41e42306b9331416fe8e973d4e21e5527a94d434e5cf55b6b9
+✅ [10]Diona  |10:42:28|07-06-2026| Mint USDC+ Confirmed: https://eth-sepolia.blockscout.com/tx/0xdf71e1c650a219cbdc79ae59a1314cf15d1c30e466b79a3c7396ab87de7936b7
+⏳ Countdown before next account: 2s   ⏳ Countdown before next account: 1s   ✅ Countdown before next account: Done!                                            
+❌ List Error Account : 1,2
